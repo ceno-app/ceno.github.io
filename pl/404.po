@@ -3,18 +3,21 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-01 17:45-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-05-04 08:02+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/censorship-no/"
+"website/404/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.11.1\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: 404.html%2Bhtml[lang]:4-1
 msgid "en"
-msgstr ""
+msgstr "pl"
 
 #: 404.html%2Bhtml.body.nav.div.div:96-7
 msgctxt "404.html+html.body.nav.div.div:96-7"
@@ -23,15 +26,18 @@ msgid ""
 "href=\"news.html\">News</a> <a href=\"help.html\">Community</a> <a href="
 "\"donate.html\">Donate</a>"
 msgstr ""
+"<a href=\"about.html\">O</a> <a href=\"support.html\">Pomoc</a> <a href="
+"\"news.html\">Wydarzenia</a> <a href=\"help.html\">Społeczność</a> <a href="
+"\"donate.html\">Wesprzyj</a>"
 
 #: 404.html%2Bhtml.body.nav.div.div.div.label.img[alt]:107-13
 msgctxt "404.html+html.body.nav.div.div.div.label.img[alt]:107-13"
 msgid "Select language"
-msgstr ""
+msgstr "Wybierz język"
 
 #: 404.html%2Bhtml.body.nav.div.div.div.label.div:109-13
 msgid "EN"
-msgstr ""
+msgstr "PL"
 
 #.  Sorted alphabetically by language code. 
 #.  TRANSLATORS: Please do not translate any of these. 
@@ -57,7 +63,7 @@ msgstr ""
 #: 404.html%2Bhtml.body.nav.div.div:127-9
 msgctxt "404.html+html.body.nav.div.div:127-9"
 msgid "Download"
-msgstr ""
+msgstr "Pobierz"
 
 #: 404.html%2Bhtml.body.nav.div.div:138-7
 msgctxt "404.html+html.body.nav.div.div:138-7"
@@ -66,24 +72,27 @@ msgid ""
 "href=\"news.html\">News</a> <a href=\"help.html\">Community</a> <a href="
 "\"donate.html\">Donate</a>"
 msgstr ""
+"<a href=\"about.html\">O</a> <a href=\"support.html\">Pomoc</a> <a href="
+"\"news.html\">Wydarzenia</a> <a href=\"help.html\">Społeczność</a> <a href="
+"\"donate.html\">Wesprzyj</a>"
 
 #: 404.html%2Bhtml.body.nav.div.div.a.img[alt]:145-11
 msgid "Download Ceno"
-msgstr ""
+msgstr "Pobierz Ceno"
 
 #: 404.html%2Bhtml.body.nav.div.div.a.div:146-11
 msgctxt "404.html+html.body.nav.div.div.a.div:146-11"
 msgid "Download"
-msgstr ""
+msgstr "Pobierz"
 
 #: 404.html%2Bhtml.body.nav.div.a.img[alt]:149-28
 msgid "Ceno logo"
-msgstr ""
+msgstr "Logo Ceno"
 
 #: 404.html%2Bhtml.body.nav.div.div.label.img[alt]:153-11
 msgctxt "404.html+html.body.nav.div.div.label.img[alt]:153-11"
 msgid "Select language"
-msgstr ""
+msgstr "Wybierz język"
 
 #.  Sorted alphabetically by language code. 
 #.  TRANSLATORS: Please do not translate any of these. 
@@ -118,7 +127,7 @@ msgstr ""
 
 #: 404.html%2Bhtml.body.main.div.div.a[title]:183-9
 msgid "Get Ceno"
-msgstr ""
+msgstr "Korzystaj z CENO"
 
 #: 404.html%2Bhtml.body.main.div.div:182-49
 msgid "Go to censorship.no"
