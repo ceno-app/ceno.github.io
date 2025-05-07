@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-05 21:32-0700\n"
-"PO-Revision-Date: 2025-05-01 21:42+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-08 01:01+0000\n"
+"Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/censorship-no/"
 "websitehelp/tr/>\n"
 "Language: tr\n"
@@ -32,7 +32,7 @@ msgstr ""
 #: help.html%2Bhtml.body.nav.div.div.div.label.img[alt]:107-13
 msgctxt "help.html+html.body.nav.div.div.div.label.img[alt]:107-13"
 msgid "Select language"
-msgstr "Dil seç"
+msgstr "Dili seçin"
 
 #: help.html%2Bhtml.body.nav.div.div.div.label.div:109-13
 msgid "EN"
@@ -121,7 +121,7 @@ msgstr "Ceno logosu"
 #: help.html%2Bhtml.body.nav.div.div.label.img[alt]:153-11
 msgctxt "help.html+html.body.nav.div.div.label.img[alt]:153-11"
 msgid "Select language"
-msgstr "Dil seç"
+msgstr "Dili seçin"
 
 #.  Sorted alphabetically by language code. 
 #.  TRANSLATORS: Please do not translate any of these. 
@@ -376,12 +376,12 @@ msgid ""
 "values. Everyday, they enable freedom of association for millions of people "
 "online."
 msgstr ""
-"Ceno Browser, daha eşit ve adaletli bir ağı desteklemek için merkezi olmayan "
-"İnternet hizmetleri oluşturan, kar amacı gütmeyen bir Kanada kuruluşu olan "
-"<a href=\"https://equalit.ie\">eQualit.ie</a>'nin bir projesidir. . "
-"eQualitie çözümleri açık kaynaklıdır, savaş alanında kanıtlanmış ve "
-"değerlerimiz akılda tutularak geliştirilmiştir. Her gün milyonlarca insana "
-"çevrim içi olarak örgütlenme özgürlüğü sağlıyorlar."
+"Ceno Browser, daha eşit ve adil bir ağ oluşturmak için merkezi olmayan "
+"internet hizmetleri geliştiren, kar amacı gütmeyen bir Kanada kuruluşu olan "
+"<a href=\"https://equalit.ie\">eQualit.ie</a> tarafından geliştirilmiş bir "
+"projedir. eQualitie çözümleri açık kaynaklıdır, sahada kanıtlanmış ve "
+"değerlerimize saygı göstererek geliştirilmiştir. Her gün milyonlarca insana "
+"çevrim içi olarak örgütlenme özgürlüğünü kullanıyorlar."
 
 #.  TRANSLATORS: Please do not translate this. 
 #: help.html%2Bhtml.body.footer:328-23
