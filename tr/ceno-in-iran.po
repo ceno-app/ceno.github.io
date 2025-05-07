@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-05 21:32-0700\n"
-"PO-Revision-Date: 2025-04-21 23:21+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-08 01:01+0000\n"
+"Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/censorship-no/"
 "website/website-ceno-in-iran/tr/>\n"
 "Language: tr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.1-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: ceno-in-iran.html%2Bhtml[lang]:4-1
 msgid "en"
@@ -32,7 +32,7 @@ msgstr ""
 #: ceno-in-iran.html%2Bhtml.body.nav.div.div.div.label.img[alt]:107-13
 msgctxt "ceno-in-iran.html+html.body.nav.div.div.div.label.img[alt]:107-13"
 msgid "Select language"
-msgstr "Dil seç"
+msgstr "Dili seçin"
 
 #: ceno-in-iran.html%2Bhtml.body.nav.div.div.div.label.div:109-13
 msgid "EN"
@@ -126,7 +126,7 @@ msgstr "Ceno logosu"
 #: ceno-in-iran.html%2Bhtml.body.nav.div.div.label.img[alt]:153-11
 msgctxt "ceno-in-iran.html+html.body.nav.div.div.label.img[alt]:153-11"
 msgid "Select language"
-msgstr "Dil seç"
+msgstr "Dili seçin"
 
 #.  Sorted alphabetically by language code. 
 #.  TRANSLATORS: Please do not translate any of these. 
@@ -186,11 +186,11 @@ msgstr ""
 
 #: ceno-in-iran.html%2Bhtml.body.main.title:178-92
 msgid "Ceno Browser | Ceno proves itself in Iran during Internet shutdowns"
-msgstr "Ceno Browser | Ceno İran'daki İnternet kesintilerinde kendini gösterdi"
+msgstr "Ceno Browser | Ceno İran'daki internet kesintilerinde kendini gösterdi"
 
 #: ceno-in-iran.html%2Bhtml.body.main.div.div.h2:182-5
 msgid "Ceno proves itself in Iran during Internet shutdowns"
-msgstr "Ceno İran'daki İnternet kesintilerinde kendini gösterdi"
+msgstr "Ceno İran'daki internet kesintilerinde kendini gösterdi"
 
 #: ceno-in-iran.html%2Bhtml.body.main.div.div.h3:183-2
 msgid ""
@@ -198,7 +198,7 @@ msgid ""
 "information regardless of censorship"
 msgstr ""
 "İnsanların sansürü aşarak bilgilere ulaşmasını ve paylaşmasını sağlayan, "
-"merkezi olmayan mobil İnternet tarayıcısı"
+"merkezi olmayan mobil internet tarayıcısı"
 
 #: ceno-in-iran.html%2Bhtml.body.main.div.p:185-2
 msgid ""
@@ -215,10 +215,10 @@ msgstr ""
 "İran'da binlerce kişiye yardım ettiğini ve aynı zamanda Rusya-Ukrayna "
 "savaşındaki kullanılabilirliğini artırdığını duyurmaktan mutluluk duyuyor. "
 "<strong>ce</strong>nsorship.<strong>no</strong> kısaltması olan Ceno, "
-"İnternet sansürleme taktiklerine rağmen İnternet içeriklerinin kısıtlandığı "
-"yerlerdeki bireysel mobil kullanıcıların Dünya çapındaki İnternet içeriğine "
+"internet sansürleme taktiklerine rağmen internet içeriklerinin kısıtlandığı "
+"yerlerdeki bireysel mobil kullanıcıların Dünya çapındaki internet içeriğine "
 "erişmesini ve paylaşmasını sağladı. 2022 yılından bu yana Ceno, İran'da "
-"İnternet bağlantıları engellenen on binlerce kişiye yardımcı oldu."
+"internet bağlantıları engellenen on binlerce kişiye yardımcı oldu."
 
 #: ceno-in-iran.html%2Bhtml.body.main.div.p:188-2
 msgid ""
@@ -235,7 +235,7 @@ msgstr ""
 "artırıyor. İran'da Eylül ortasında protestolar artmaya başladığından beri "
 "rejim, özellikle intranet altyapısı olan Ulusal Bilgi Ağı (NIN) dışındaki "
 "iletişimi bastırmakta saldırgan davranıyor. Yetkililer diğer şeylerin "
-"yanında İnternet sitelerini ve sosyal ağları engelliyor, mobil verileri "
+"yanında internet sitelerini ve sosyal ağları engelliyor, mobil verileri "
 "devre dışı bırakıyor, DNS hizmetlerini şifreliyor ve ağları çökertiyor."
 
 #: ceno-in-iran.html%2Bhtml.body.main.div.p:189-2
@@ -257,7 +257,7 @@ msgstr ""
 "kullanımı, Rusya, Afganistan, Ukrayna, Pakistan, Hindistan, Yemen, Bangladeş "
 "ve Myanmar gibi sansür uygulanan diğer ülkelerde de artmayı sürdürüyor. Her "
 "kurulum, aygıtlar arasında köprüler oluşturuyor ve kullanıcıların "
-"engellenen, süzülen ve sansürlenen İnternet içeriğini paylaşmalarını "
+"engellenen, süzülen ve sansürlenen internet içeriğini paylaşmalarını "
 "sağlayarak ağı genişletiyor."
 
 #: ceno-in-iran.html%2Bhtml.body.main.div.p:190-2
@@ -270,8 +270,8 @@ msgid ""
 msgstr ""
 "eQualitie kurucusu ve yöneticisi Dmitri Vitaliev, “Gerektiğinde Ceno ile "
 "yapılanları izlemek memnuniyet verici” diyor. “İran halkı, bilgiye özgürce "
-"erişemediği yerlerden, İnternet üzerinde gezinebilmek ve İran ağından "
-"sansürlenen bilgilere özgürce erişebilmek için Ceno'ya güvenebilirler.”"
+"erişemediği yerlerden, internet üzerinde gezinebilmek ve İran ağından "
+"sansürlenen bilgilere özgürce erişebilmek için Ceno ağına güvenebilirler.”"
 
 #: ceno-in-iran.html%2Bhtml.body.main.div.p:191-2
 msgid ""
@@ -353,12 +353,12 @@ msgid ""
 "values. Everyday, they enable freedom of association for millions of people "
 "online."
 msgstr ""
-"Ceno Browser, daha eşit ve adaletli bir ağı desteklemek için merkezi olmayan "
-"İnternet hizmetleri oluşturan, kar amacı gütmeyen bir Kanada kuruluşu olan "
-"<a href=\"https://equalit.ie\">eQualit.ie</a>'nin bir projesidir. . "
-"eQualitie çözümleri açık kaynaklıdır, savaş alanında kanıtlanmış ve "
-"değerlerimiz akılda tutularak geliştirilmiştir. Her gün milyonlarca insana "
-"çevrim içi olarak örgütlenme özgürlüğü sağlıyorlar."
+"Ceno Browser, daha eşit ve adil bir ağ oluşturmak için merkezi olmayan "
+"internet hizmetleri geliştiren, kar amacı gütmeyen bir Kanada kuruluşu olan "
+"<a href=\"https://equalit.ie\">eQualit.ie</a> tarafından geliştirilmiş bir "
+"projedir. eQualitie çözümleri açık kaynaklıdır, sahada kanıtlanmış ve "
+"değerlerimize saygı göstererek geliştirilmiştir. Her gün milyonlarca insana "
+"çevrim içi olarak örgütlenme özgürlüğünü kullanıyorlar."
 
 #.  TRANSLATORS: Please do not translate this. 
 #: ceno-in-iran.html%2Bhtml.body.footer:223-23
