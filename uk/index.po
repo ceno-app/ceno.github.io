@@ -178,6 +178,7 @@ msgid "Get it on F-droid"
 msgstr "Отримати з F-droid"
 
 #: index.html%2Bhtml.body.main.section.div.div.div.div.p.a.img[alt]:199-17
+#: index.html%2Bhtml.body.main.section.div.div.div.div.p.a.img[alt]:196-17
 msgid "Get it on Paskoocheh"
 msgstr "Завантажити з Paskoocheh"
 
@@ -262,8 +263,12 @@ msgid ""
 "© eQualitie 2018<script>new Date().getFullYear()>2018&&document.write(\"-"
 "\"+new Date().getFullYear());</script>"
 msgstr ""
-"© eQualitie 2018<script>new Date().getFullYear()>2018&&document.write(\"-\"+"
-"new Date().getFullYear());</script>"
+"© eQualitie 2018<script>new Date().getFullYear()>2018&&document.write(\"-"
+"\"+new Date().getFullYear());</script>"
+
+#: index.html%2Bhtml.body.main.section.div.div.div.div.p.a.img[alt]:199-15
+msgid "Get it from Microsoft Store"
+msgstr ""
 
 #~ msgid ""
 #~ "Ceno (short for censorship.no!) is the world’s first mobile browser that "
@@ -278,22 +283,6 @@ msgstr ""
 #~ "перервано або порушено."
 
 #, fuzzy
-#~| msgid ""
-#~| "<a class=\"navbar-item\" lang=\"ar\" hreflang=\"ar\" href=\"../ar/index."
-#~| "html\">العربية</a> <a class=\"navbar-item\" lang=\"en\" hreflang=\"en\" "
-#~| "href=\"../en/index.html\">English</a> <a class=\"navbar-item\" "
-#~| "lang=\"es\" hreflang=\"es\" href=\"../es/index.html\">Español</a> <a "
-#~| "class=\"navbar-item\" lang=\"fa\" hreflang=\"fa\" href=\"../fa/index."
-#~| "html\">فارسی</a> <a class=\"navbar-item\" lang=\"fr\" hreflang=\"fr\" "
-#~| "href=\"../fr/index.html\">Français</a> <a class=\"navbar-item\" "
-#~| "lang=\"my\" hreflang=\"my\" href=\"../my/index.html\">မြန်မာစာ</a> <a "
-#~| "class=\"navbar-item\" lang=\"pt_BR\" hreflang=\"pt_BR\" href=\"../pt_BR/"
-#~| "index.html\">Português</a> <a class=\"navbar-item\" lang=\"ru\" "
-#~| "hreflang=\"ru\" href=\"../ru/index.html\">Pусский</a> <a class=\"navbar-"
-#~| "item\" lang=\"tr\" hreflang=\"tr\" href=\"../tr/index.html\">Türkçe</a> "
-#~| "<a class=\"navbar-item\" lang=\"uk\" hreflang=\"uk\" href=\"../uk/index."
-#~| "html\">Українська</a> <a class=\"navbar-item\" lang=\"ur\" "
-#~| "hreflang=\"ur\" href=\"../ur/index.html\">اردو</a>"
 #~ msgctxt "index.html+html.body.nav.div.div.div:155-9"
 #~ msgid ""
 #~ "<a class=\"navbar-item\" lang=\"ar\" hreflang=\"ar\" href=\"../ar/index."
@@ -329,9 +318,6 @@ msgstr ""
 #~ "hreflang=\"ur\" href=\"../ur/index.html\">اردو</a>"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "index.html+html.body.main.section.div.div.div.div.div.img[alt]:214-13"
-#~| msgid "Free and Open Source"
 #~ msgctxt "index.html+html.body.main.section.div.div.div.div.div.h3:232-15"
 #~ msgid "Free and Open Source"
 #~ msgstr "Безплатно і з відкритим кодом"

@@ -179,6 +179,7 @@ msgid "Get it on F-droid"
 msgstr "Disponível no GitLab"
 
 #: index.html%2Bhtml.body.main.section.div.div.div.div.p.a.img[alt]:199-17
+#: index.html%2Bhtml.body.main.section.div.div.div.div.p.a.img[alt]:196-17
 msgid "Get it on Paskoocheh"
 msgstr "Disponível no Paskoocheh"
 
@@ -262,6 +263,12 @@ msgstr ""
 msgid ""
 "© eQualitie 2018<script>new Date().getFullYear()>2018&&document.write(\"-"
 "\"+new Date().getFullYear());</script>"
+msgstr ""
+"© eQualitie 2018<script>new Date().getFullYear()>2018&&document.write(\"-"
+"\"+new Date().getFullYear());</script>"
+
+#: index.html%2Bhtml.body.main.section.div.div.div.div.p.a.img[alt]:199-15
+msgid "Get it from Microsoft Store"
 msgstr ""
 
 #~ msgid ""

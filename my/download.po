@@ -42,23 +42,6 @@ msgstr "MY"
 #.  TRANSLATORS: Please do not translate any of these. 
 #: download.html%2Bhtml.body.nav.div.div.div.div:112-11
 #, fuzzy
-#| msgid ""
-#| "<a class=\"navbar-item\" lang=\"ar\" hreflang=\"ar\" href=\"../ar/"
-#| "download.html\">العربية</a> <a class=\"navbar-item\" lang=\"en\" "
-#| "hreflang=\"en\" href=\"../en/download.html\">English</a> <a "
-#| "class=\"navbar-item\" lang=\"es\" hreflang=\"es\" href=\"../es/download."
-#| "html\">Español</a> <a class=\"navbar-item\" lang=\"fa\" hreflang=\"fa\" "
-#| "href=\"../fa/download.html\">فارسی</a> <a class=\"navbar-item\" "
-#| "lang=\"fr\" hreflang=\"fr\" href=\"../fr/download.html\">Français</a> <a "
-#| "class=\"navbar-item\" lang=\"my\" hreflang=\"my\" href=\"../my/download."
-#| "html\">မြန်မာစာ</a> <a class=\"navbar-item\" lang=\"pt_BR\" "
-#| "hreflang=\"pt_BR\" href=\"../pt_BR/download.html\">Português</a> <a "
-#| "class=\"navbar-item\" lang=\"ru\" hreflang=\"ru\" href=\"../ru/download."
-#| "html\">Pусский</a> <a class=\"navbar-item\" lang=\"tr\" hreflang=\"tr\" "
-#| "href=\"../tr/download.html\">Türkçe</a> <a class=\"navbar-item\" "
-#| "lang=\"uk\" hreflang=\"uk\" href=\"../uk/download.html\">Українська</a> "
-#| "<a class=\"navbar-item\" lang=\"ur\" hreflang=\"ur\" href=\"../ur/"
-#| "download.html\">اردو</a>"
 msgctxt "download.html+html.body.nav.div.div.div.div:112-11"
 msgid ""
 "<a class=\"navbar-item\" lang=\"ar\" hreflang=\"ar\" href=\"../ar/download."
@@ -131,23 +114,6 @@ msgstr "Select language"
 #.  TRANSLATORS: Please do not translate any of these. 
 #: download.html%2Bhtml.body.nav.div.div.div:159-9
 #, fuzzy
-#| msgid ""
-#| "<a class=\"navbar-item\" lang=\"ar\" hreflang=\"ar\" href=\"../ar/"
-#| "download.html\">العربية</a> <a class=\"navbar-item\" lang=\"en\" "
-#| "hreflang=\"en\" href=\"../en/download.html\">English</a> <a "
-#| "class=\"navbar-item\" lang=\"es\" hreflang=\"es\" href=\"../es/download."
-#| "html\">Español</a> <a class=\"navbar-item\" lang=\"fa\" hreflang=\"fa\" "
-#| "href=\"../fa/download.html\">فارسی</a> <a class=\"navbar-item\" "
-#| "lang=\"fr\" hreflang=\"fr\" href=\"../fr/download.html\">Français</a> <a "
-#| "class=\"navbar-item\" lang=\"my\" hreflang=\"my\" href=\"../my/download."
-#| "html\">မြန်မာစာ</a> <a class=\"navbar-item\" lang=\"pt_BR\" "
-#| "hreflang=\"pt_BR\" href=\"../pt_BR/download.html\">Português</a> <a "
-#| "class=\"navbar-item\" lang=\"ru\" hreflang=\"ru\" href=\"../ru/download."
-#| "html\">Pусский</a> <a class=\"navbar-item\" lang=\"tr\" hreflang=\"tr\" "
-#| "href=\"../tr/download.html\">Türkçe</a> <a class=\"navbar-item\" "
-#| "lang=\"uk\" hreflang=\"uk\" href=\"../uk/download.html\">Українська</a> "
-#| "<a class=\"navbar-item\" lang=\"ur\" hreflang=\"ur\" href=\"../ur/"
-#| "download.html\">اردو</a>"
 msgctxt "download.html+html.body.nav.div.div.div:159-9"
 msgid ""
 "<a class=\"navbar-item\" lang=\"ar\" hreflang=\"ar\" href=\"../ar/download."
@@ -219,26 +185,32 @@ msgid "Get it on F-droid"
 msgstr "F-droid တွင် ရယူပါ"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:202-17
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:203-17
 msgid "Get it on Paskoocheh"
 msgstr "Paskoocheh တွင်ရယူပါ"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:205-17
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:206-17
 msgid "Get it on GitLab"
 msgstr "Gitlab တွင် ရယူပါ"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:208-17
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:209-17
 msgid "Get it on Github"
 msgstr "Github တွင် ရယူပါ"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:211-17
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:212-17
 msgid "Get it on dComms"
 msgstr "dComms တွင် ရယူပါ"
 
 #: download.html%2Bhtml.body.main.section.div.div.h3:223-7
+#: download.html%2Bhtml.body.main.section.div.div.h3:224-7
 msgid "Important:"
 msgstr "အရေးကြီးသည်-"
 
 #: download.html%2Bhtml.body.main.section.div.div.p:224-7
+#: download.html%2Bhtml.body.main.section.div.div.p:225-7
 msgid ""
 "Ceno has two modes of operation - <strong>Public</strong> and "
 "<strong>Personal</strong>. You can easily toggle between them. Public mode "
@@ -258,6 +230,7 @@ msgstr ""
 "href=\"../user-manual/\">သုံးစွဲသူ လက်စွဲ</a> ကို ကြည့်ရှုပါ။"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.h3:237-9
+#: download.html%2Bhtml.body.main.section.div.div.div.h3:238-9
 msgid "Direct Download"
 msgstr "တိုက်ရိုက်ဒေါင်းလုပ်"
 
@@ -271,19 +244,21 @@ msgstr ""
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p:240-9
 #, fuzzy
-#| msgid "Ceno Browser 2.4.2"
 msgid "Ceno Browser 2.4.3"
 msgstr "Ceno ဘရောက်ဇာ ၂.၄.၂"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:241-12
+#: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:242-12
 msgid "Download (32-bit ARM)"
 msgstr "ဒေါင်းလုတ် (32-bit ARM)"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:243-11
+#: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:244-11
 msgid "Download (64-bit ARM)"
 msgstr "ဒေါင်းလုတ် (64-bit ARM)"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p:246-9
+#: download.html%2Bhtml.body.main.section.div.div.div.p:251-9
 msgid ""
 "Run this to <a href=\"https://developer.android.com/studio/command-line/"
 "apksigner#usage-verify\">verify</a> that the APK has a valid signature from "
@@ -295,6 +270,7 @@ msgstr ""
 
 #.  TRANSLATORS: Please do not translate any of these. 
 #: download.html%2Bhtml.body.main.section.div.div.div.pre:250-9
+#: download.html%2Bhtml.body.main.section.div.div.div.pre:255-9
 msgid ""
 "> apksigner verify --print-certs ceno-[…].apk<br>Signer #1 certificate DN: "
 "CN=equalit.ie<br>Signer #1 certificate SHA-256 digest: "
@@ -305,14 +281,8 @@ msgstr ""
 "a59d20c076f6170a2c13d9ce96cd4349688f907898dfc3c89b0ae6ebe9f7edca<br>[…]"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p:252-9
+#: download.html%2Bhtml.body.main.section.div.div.div.p:257-9
 #, fuzzy
-#| msgid ""
-#| "You can also verify the <a href=\"https://ceno-download.s3.amazonaws.com/"
-#| "ceno/v2.4.2/sha256sums.txt.asc\">signatures</a> of <a href=\"https://ceno-"
-#| "download.s3.amazonaws.com/ceno/v2.4.2/sha256sums.txt\">file hashes</a> "
-#| "against our <a href=\"https://pgp.mit.edu/pks/lookup?"
-#| "op=get&search=0xC7DCC123F0DDB862\">PGP key</a> (with fingerprint "
-#| "<code>51BE 600C 2711 926C 865D F93F C7DC C123 F0DD B862</code>)."
 msgid ""
 "You can also verify the <a href=\"https://ceno-download.s3.amazonaws.com/"
 "ceno/v2.4.3/sha256sums.txt.asc\">signatures</a> of <a href=\"https://ceno-"
@@ -329,6 +299,7 @@ msgstr ""
 "B862</code>) ဖြင့် စစ်ဆေး အတည်ပြုနိုင်ပါတယ်။"
 
 #: download.html%2Bhtml.body.footer.div.p:275-9
+#: download.html%2Bhtml.body.footer.div.p:280-9
 msgid ""
 "Ceno Browser is a project by <a href=\"https://equalit.ie\">eQualit.ie</a> – "
 "a not-for-profit Canadian organization that creates decentralized internet "
@@ -345,10 +316,8 @@ msgstr ""
 
 #.  TRANSLATORS: Please do not translate this. 
 #: download.html%2Bhtml.body.footer:277-23
+#: download.html%2Bhtml.body.footer:282-23
 #, fuzzy
-#| msgid ""
-#| "© Censorship.no! 2018<script>new Date().getFullYear()>2018&&document."
-#| "write(\"-\"+new Date().getFullYear());</script>"
 msgid ""
 "© eQualitie 2018<script>new Date().getFullYear()>2018&&document.write(\"-"
 "\"+new Date().getFullYear());</script>"
@@ -356,24 +325,52 @@ msgstr ""
 "© Censorship.no! 2018<script>new Date().getFullYear()>2018&&document."
 "write(\"-\"+new Date().getFullYear());</script>"
 
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p:189-13
 #, fuzzy
-#~| msgid ""
-#~| "<a class=\"navbar-item\" lang=\"ar\" hreflang=\"ar\" href=\"../ar/"
-#~| "download.html\">العربية</a> <a class=\"navbar-item\" lang=\"en\" "
-#~| "hreflang=\"en\" href=\"../en/download.html\">English</a> <a "
-#~| "class=\"navbar-item\" lang=\"es\" hreflang=\"es\" href=\"../es/download."
-#~| "html\">Español</a> <a class=\"navbar-item\" lang=\"fa\" hreflang=\"fa\" "
-#~| "href=\"../fa/download.html\">فارسی</a> <a class=\"navbar-item\" "
-#~| "lang=\"fr\" hreflang=\"fr\" href=\"../fr/download.html\">Français</a> <a "
-#~| "class=\"navbar-item\" lang=\"my\" hreflang=\"my\" href=\"../my/download."
-#~| "html\">မြန်မာစာ</a> <a class=\"navbar-item\" lang=\"pt_BR\" "
-#~| "hreflang=\"pt_BR\" href=\"../pt_BR/download.html\">Português</a> <a "
-#~| "class=\"navbar-item\" lang=\"ru\" hreflang=\"ru\" href=\"../ru/download."
-#~| "html\">Pусский</a> <a class=\"navbar-item\" lang=\"tr\" hreflang=\"tr\" "
-#~| "href=\"../tr/download.html\">Türkçe</a> <a class=\"navbar-item\" "
-#~| "lang=\"uk\" hreflang=\"uk\" href=\"../uk/download.html\">Українська</a> "
-#~| "<a class=\"navbar-item\" lang=\"ur\" hreflang=\"ur\" href=\"../ur/"
-#~| "download.html\">اردو</a>"
+msgid ""
+"The safest way to install Ceno Browser on your device is through the Google "
+"Play Store or Microsoft Store:"
+msgstr ""
+"Ceno ဘရောက်ဇာကို ဖုန်းတွင် ရယူထည့်သွင်းရန်အတွက် စိတ်အချရဆုံးနည်းလမ်းမှာ Google Play Store မှတဆင့် "
+"ထည့်သွင်းခြင်း ဖြစ်ပါသည် -"
+
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:196-17
+msgid "Get it from Microsoft Store"
+msgstr ""
+
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p:199-13
+#, fuzzy
+msgid ""
+"Alternatively, you can install Ceno via the Paskoocheh Marketplace, Github, "
+"dComms, or download the APK directly via GitLab:"
+msgstr ""
+"တခြားနည်းလမ်းအနေဖြင့် F-Droid၊ Paskoocheh၊ Marketplace၊ Github၊ dComms မှတဆင့် သို့မဟုတ် "
+"APK ဖိုင်ကို Gitlab မှ တိုက်ရိုက် ရယူနိုင်ပါသည် -"
+
+#: download.html%2Bhtml.body.main.section.div.div.div.p:239-9
+#, fuzzy
+msgid ""
+"For advanced users or those unable to install Ceno Browser via the above "
+"links, you can download the latest APK or EXE directly:"
+msgstr ""
+"ကျွမ်းကျွမ်းကျင်ကျင်အသုံးပြုတတ်သူ သို့မဟုတ် Ceno ဘရောက်ဇာကို အထက်ပါလင့်များမှတဆင့် install "
+"မလုပ်နိုင်သူများက ဤနေရာတွင် APK ကို တိုက်ရိုက်ဒေါင်းလုပ်ချနိုင်ပါသည် -"
+
+#: download.html%2Bhtml.body.main.section.div.div.div.p:241-9
+#, fuzzy
+msgid "Ceno for Android 2.4.3"
+msgstr "Ceno ဘရောက်ဇာ ၂.၄.၂"
+
+#: download.html%2Bhtml.body.main.section.div.div.div.p:247-9
+msgid "Ceno for Windows Alpha 0.0.1-20250425123522"
+msgstr ""
+
+#: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:248-12
+#, fuzzy
+msgid "Download (x86_64 system-install)"
+msgstr "ဒေါင်းလုတ် (64-bit ARM)"
+
+#, fuzzy
 #~ msgctxt "download.html+html.body.nav.div.div.div:155-9"
 #~ msgid ""
 #~ "<a class=\"navbar-item\" lang=\"ar\" hreflang=\"ar\" href=\"../ar/"
