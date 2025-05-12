@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: support@censorship.no\n"
 "POT-Creation-Date: 2025-05-01 17:38-0400\n"
-"PO-Revision-Date: 2025-05-10 15:48+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-12 08:45+0000\n"
+"Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/censorship-no/"
 "website/websitedownload/tr/>\n"
 "Language: tr\n"
@@ -192,17 +192,17 @@ msgstr "Paskoocheh üzerinden edinin"
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:205-17
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:206-17
 msgid "Get it on GitLab"
-msgstr "GitLab üzerinden alın"
+msgstr "GitLab üzerinden edinin"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:208-17
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:209-17
 msgid "Get it on Github"
-msgstr "GitHub üzerinden alın"
+msgstr "GitHub üzerinden edinin"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:211-17
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:212-17
 msgid "Get it on dComms"
-msgstr "dComms üzerinden alın"
+msgstr "dComms üzerinden edinin"
 
 #: download.html%2Bhtml.body.main.section.div.div.h3:223-7
 #: download.html%2Bhtml.body.main.section.div.div.h3:224-7
@@ -310,7 +310,7 @@ msgstr ""
 "<a href=\"https://equalit.ie\">eQualit.ie</a> tarafından geliştirilmiş bir "
 "projedir. eQualitie çözümleri açık kaynaklıdır, sahada kanıtlanmış ve "
 "değerlerimize saygı göstererek geliştirilmiştir. Her gün milyonlarca insana "
-"çevrim içi olarak örgütlenme özgürlüğünü kullanıyorlar."
+"çevrim içi olarak örgütlenme özgürlüğü sağlıyor."
 
 #.  TRANSLATORS: Please do not translate this. 
 #: download.html%2Bhtml.body.footer:277-23
@@ -324,49 +324,44 @@ msgstr ""
 "write(\"-\"+new Date().getFullYear());</script>"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p:189-13
-#, fuzzy
 msgid ""
 "The safest way to install Ceno Browser on your device is through the Google "
 "Play Store or Microsoft Store:"
 msgstr ""
-"Ceno Browser Android telefonunuza kurmanın en güvenli yolu Google Play Store "
-"kullanmaktır:"
+"Aygıtınıza Ceno Browser kurmanın en güvenli yolu Google Play Store ya da "
+"Microsoft Store kullanmaktır:"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:196-17
 msgid "Get it from Microsoft Store"
-msgstr ""
+msgstr "Microsoft Store üzerinden edinin"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p:199-13
-#, fuzzy
 msgid ""
 "Alternatively, you can install Ceno via the Paskoocheh Marketplace, Github, "
 "dComms, or download the APK directly via GitLab:"
 msgstr ""
-"Ayrıca, Ceno uygulamasını F-Droid, Paskoocheh, GitHub, dComms ile kurabilir "
+"Ayrıca, Ceno uygulamasını Paskoocheh mağazası, GitHub, dComms ile kurabilir "
 "ya da doğrudan GitLab üzerinden APK dosyasını indirebilirsiniz:"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p:239-9
-#, fuzzy
 msgid ""
 "For advanced users or those unable to install Ceno Browser via the above "
 "links, you can download the latest APK or EXE directly:"
 msgstr ""
 "Deneyimli kullanıcılar ya da yukarıdaki bağlantılardan Ceno Browser "
-"kuramayanlar doğrudan APK dosyasını indirebilirler:"
+"kuramayanlar doğrudan APK veya EXE dosyasını indirebilirler:"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p:241-9
-#, fuzzy
 msgid "Ceno for Android 2.4.3"
-msgstr "Ceno Browser 2.4.3"
+msgstr "Android için Ceno 2.4.3"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p:247-9
 msgid "Ceno for Windows Alpha 0.0.1-20250425123522"
-msgstr ""
+msgstr "Windows için Ceno Alpha 0.0.1-20250425123522"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:248-12
-#, fuzzy
 msgid "Download (x86_64 system-install)"
-msgstr "İndir (64-bit ARM)"
+msgstr "İndir (x86_64 system-install)"
 
 #~ msgid "Ceno Browser 2.3.1"
 #~ msgstr "Ceno Browser 2.3.1"
