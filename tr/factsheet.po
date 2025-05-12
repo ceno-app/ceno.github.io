@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-05 21:32-0700\n"
-"PO-Revision-Date: 2025-05-12 08:47+0000\n"
+"PO-Revision-Date: 2025-05-13 08:45+0000\n"
 "Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/censorship-no/"
 "website/website-factsheet/tr/>\n"
@@ -297,8 +297,8 @@ msgid ""
 "independent media globally to access and share web content"
 msgstr ""
 "Şu anda Dünya çapında binlerce sivilin, sivil toplum kuruluşunun, "
-"araştırmacı gazetecinin ve bağımsız basının internet içeriğine erişmesine ve "
-"paylaşmasına yardımcı oluyor"
+"araştırmacı gazetecinin ve bağımsız basının internet içeriklerine erişmesine "
+"ve paylaşmasına yardımcı oluyor"
 
 #: factsheet.html%2Bhtml.body.main.div.section.ul.li:211-2
 msgid ""
@@ -315,8 +315,8 @@ msgid ""
 "Ceno’s p2p routing and distribution of storage can reduce bandwidth and "
 "energy use"
 msgstr ""
-"Uçtan uca Ceno yönlendirmesi ve dağıtık depolama bant genişliği kullanımını "
-"ve güç tüketimini azaltabilir"
+"Uçtan uca Ceno yönlendirmesi ve dağıtılmış depolama bant genişliği "
+"kullanımını ve güç tüketimini azaltabilir"
 
 #: factsheet.html%2Bhtml.body.main.div.section.ul.li:213-2
 msgid ""
@@ -382,7 +382,7 @@ msgid ""
 "authoritarian states"
 msgstr ""
 "Baskı altındaki bölgelerde özgür ve güvenli iletişime odaklanan çeşitli "
-"girişimlere önderlik etmektedir"
+"girişimlere önderlik ediyor"
 
 #: factsheet.html%2Bhtml.body.main.div.section.ul.li:227-2
 msgid "Founded by Dmitri Vitaliev"
@@ -415,7 +415,8 @@ msgstr "Ceno nasıl çalışır"
 #: factsheet.html%2Bhtml.body.main.div.section.div.div.div.div.div.p:244-17
 msgid "A mobile user in NYC reads a BBC.com news article on her Ceno Browser."
 msgstr ""
-"New York'taki bir kullanıcı Ceno Browser kullanarak bir BBC.com haberi okur."
+"New York içinde bir kullanıcı Ceno Browser kullanarak bir BBC.com haberi "
+"okur."
 
 #: factsheet.html%2Bhtml.body.main.div.section.div.div.div.div.div.p:253-17
 msgid "Ceno signs, caches and decentralizes the article content."
@@ -440,11 +441,11 @@ msgstr "Sayılar"
 
 #: factsheet.html%2Bhtml.body.main.div.section.h3:274-1
 msgid "Ceno to April 2022"
-msgstr "2022 Nisan ayına kadar Ceno'nun gelişimi"
+msgstr "2022 Nisan ayında Ceno"
 
 #: factsheet.html%2Bhtml.body.main.div.section.ul.li:276-2
 msgid "Downloads from Google Play Store: 33,297"
-msgstr "Google Play üzerinde indirilme: 33.297"
+msgstr "Google Play üzerinden indirilme: 33.297"
 
 #: factsheet.html%2Bhtml.body.main.div.section.ul.li:277-2
 msgid "Installs from alternative marketplaces: 6,514"
@@ -452,7 +453,7 @@ msgstr "Diğer uygulama mağazalarından indirilme: 6.514"
 
 #: factsheet.html%2Bhtml.body.main.div.section.ul.li:278-2
 msgid "Pulls from Docker Hub: 597"
-msgstr "Docker üzerinden kopyalanma: 597"
+msgstr "Docker Hub üzerinden alınma: 597"
 
 #: factsheet.html%2Bhtml.body.main.div.section.ul.li:279-2
 msgid "Cloned from GitHub repositories: 1,768"
@@ -467,8 +468,8 @@ msgid ""
 "Ceno bridges worldwide: 25 (6 in Ukraine, 9 in Russia and others in the "
 "Middle East, Eastern Europe and Asia)"
 msgstr ""
-"Dünya çapındaki Ceno köprüleri: 25 (Ukrayna'da 6 tane, Rusya'da 9 tane ve "
-"kalanı Orta Doğu, Doğu Avrupa ve Asya'da)"
+"Dünya çapındaki Ceno köprüleri: 25 (Ukrayna 6, Rusya 9 ve kalanı Orta Doğu, "
+"Doğu Avrupa ve Asya'da)"
 
 #: factsheet.html%2Bhtml.body.main.div.section.ul.li:282-2
 msgid ""
@@ -512,7 +513,7 @@ msgid ""
 "of network injectors, (ii) country of origin and (iii) queries of the "
 "distributed hash table for unique device identifiers."
 msgstr ""
-"Ceno'nun merkezi olmayan çalışma yöntemi dikkate alınarak daha fazla "
+"Ceno ağının merkezi olmayan çalışma yöntemi dikkate alınarak daha fazla "
 "görünürlük ve başarım ölçümü için başka ölçütler tasarlanabilir ve "
 "geliştirilebilir. Kullanıcıları tanımlamadan yaklaşık katılımcı sayısını (i) "
 "takma adlı ağ tanımlayıcıları ve bunların ağ içerik yerleştiricilerinin "
@@ -526,8 +527,8 @@ msgid ""
 "distributed cache usage from the user’s vantage point."
 msgstr ""
 "Clean Insights SDK bütünleştirmesi ile kullanıcılara dağıtılmış ön bellek "
-"kullanımı ile birlikte istatistikleri kullanıcının bakış açısından ölçen "
-"gizliliğe saygılı sağlam analizler sunmanın bir yoludur."
+"kullanımı ve istatistikleri kullanıcının bakış açısından ölçen gizliliğe "
+"saygılı sağlam analizler sunulabilir."
 
 #: factsheet.html%2Bhtml.body.main.div.section.h3:290-1
 msgid "Ouinet in April 2022"
@@ -540,8 +541,8 @@ msgid ""
 "websites."
 msgstr ""
 "Ouinet içerik ekleyicileri otuz binin üzerinde farklı siteden yaklaşık iki "
-"milyon sayfayı (602 GB boyutunda veri) merkezi olmayan içerik paylaşım ağına "
-"ekledi."
+"milyon sayfayı (602 GB boyutunda veri) merkezi olmayan içerik paylaşımı "
+"ağına ekledi."
 
 #: factsheet.html%2Bhtml.body.main.div.section.h2:295-1
 msgid "Internet shutdowns"
@@ -629,7 +630,7 @@ msgstr ""
 
 #: factsheet.html%2Bhtml.body.main.div.section.h3:306-1
 msgid "How Ceno side-steps censorship"
-msgstr "Ceno sansürün etrafından nasıl dolaşır"
+msgstr "Ceno sansürü nasıl aşar"
 
 #: factsheet.html%2Bhtml.body.main.div.section.p:307-9
 msgid ""
@@ -642,7 +643,7 @@ msgid ""
 "environments. Wider adoption will ensure more efficient, low latency and "
 "effective decentralized peer-to-peer communications and distributed caching."
 msgstr ""
-"Var olan sansür yöntemlerinin tek bir hata noktası vardır: Kullanıcıların "
+"Var olan sansür yöntemlerinin tek bir zayıf noktası vardır: Kullanıcıların "
 "sansürün uygulandığı bir güvenlik duvarından geçmesi gerekir. 2019 Kasım "
 "ayında İran'da, 2020 yılında Belarus'ta, 2021 yılında Kazakistan'da ve bu "
 "yıl Rusya'da süren internet erişiminin kesilmesi sırasında görüldüğü gibi, "
