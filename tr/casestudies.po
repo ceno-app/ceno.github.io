@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-05 21:32-0700\n"
-"PO-Revision-Date: 2025-05-10 15:48+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-12 08:47+0000\n"
+"Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/censorship-no/"
 "website/website-case-studies/tr/>\n"
 "Language: tr\n"
@@ -198,11 +198,11 @@ msgstr "Kullanım örnekleri"
 
 #: casestudies.html%2Bhtml.body.main.div.p:181-2
 msgid "Sharing the stories of Ceno users from around the world."
-msgstr "Dünyanın çeşitli yerlerinden Ceno kullanıcılarının hikayeleri."
+msgstr "Dünyanın çeşitli yerlerinden Ceno kullanıcılarının öyküleri."
 
 #: casestudies.html%2Bhtml.body.main.div.section.div.div.div.div.a.div.div.h4:192-17
 msgid "Highlights from the Ground in Iran"
-msgstr "İran'daki önemli engelleme anları"
+msgstr "İran'daki engellemenin önemli noktaları"
 
 #: casestudies.html%2Bhtml.body.main.div.section.div.div.div.div.a.div.div.div.p:194-17
 msgid "December 15, 2022"
@@ -222,7 +222,7 @@ msgstr ""
 "<a href=\"https://equalit.ie\">eQualit.ie</a> tarafından geliştirilmiş bir "
 "projedir. eQualitie çözümleri açık kaynaklıdır, sahada kanıtlanmış ve "
 "değerlerimize saygı göstererek geliştirilmiştir. Her gün milyonlarca insana "
-"çevrim içi olarak örgütlenme özgürlüğünü kullanıyorlar."
+"çevrim içi olarak örgütlenme özgürlüğü sağlıyor."
 
 #.  TRANSLATORS: Please do not translate this. 
 #: casestudies.html%2Bhtml.body.footer:221-23
