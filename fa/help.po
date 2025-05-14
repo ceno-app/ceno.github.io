@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-05 21:32-0700\n"
-"PO-Revision-Date: 2025-05-01 21:42+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-15 09:02+0000\n"
+"Last-Translator: Mehdi Oloomi <mehdi@equalitie.org>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/censorship-no/"
 "websitehelp/fa/>\n"
 "Language: fa\n"
@@ -206,7 +206,7 @@ msgstr ""
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.div:196-17
 msgid "Join our Weblate"
-msgstr "بپیوندید"
+msgstr "به Weblate ما بپیوندید"
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.h4:207-17
 msgid "User Research"
@@ -272,11 +272,11 @@ msgstr "Firefox Browser Extension"
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.p.ul.li:229-12
 msgid "Ouinet"
-msgstr "Ouinet"
+msgstr "Ouinet‌"
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.p.ul.li:230-5
 msgid "Ceno Docker Client"
-msgstr "Ceno Docker Client"
+msgstr "Ceno Docker Client‌"
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.p:231-12
 msgid ""
