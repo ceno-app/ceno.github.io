@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-05 21:32-0700\n"
-"PO-Revision-Date: 2025-05-01 21:42+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-16 10:01+0000\n"
+"Last-Translator: Mehdi Oloomi <mehdi@equalitie.org>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/censorship-no/"
 "website/website-factsheet/fa/>\n"
 "Language: fa\n"
@@ -152,7 +152,7 @@ msgstr "برگه اطلاعاتی سنو"
 
 #: factsheet.html%2Bhtml.body.main.div.section.p:184-1
 msgid "Download PDF"
-msgstr "دانلودPDF"
+msgstr "دانلود PDF"
 
 #: factsheet.html%2Bhtml.body.main.div.section.h2:186-1
 msgid "Overview"
@@ -245,7 +245,7 @@ msgstr ""
 
 #: factsheet.html%2Bhtml.body.main.div.section.h3:208-2
 msgid "So what?"
-msgstr "چیستی?"
+msgstr "چیستی:"
 
 #: factsheet.html%2Bhtml.body.main.div.section.ul.li:210-2
 msgid ""
@@ -290,8 +290,9 @@ msgid ""
 "Works like BitTorrent - pulling, reserving and sharing content from many "
 "networked sources rather than from one web server source - but is a browser"
 msgstr ""
-"مانند بیت‌تورنت کار می‌کند – محتوا را به‌جای استفاده از یک منبع وب‌سرور، از طریق "
-"منابع مختلف شبکه دریافت و ذخیره می‌کند و به اشتراک می‌گذارد – اما یک مرورگر است"
+"سنو مانند بیت‌تورنت کار می‌کند – محتوا را به‌جای استفاده از یک منبع وب‌سرور، از "
+"طریق منابع مختلف شبکه دریافت و ذخیره می‌کند و به اشتراک می‌گذارد – اما یک "
+"مرورگر است"
 
 #: factsheet.html%2Bhtml.body.main.div.section.ul.li:218-2
 msgid ""
@@ -303,7 +304,7 @@ msgstr ""
 
 #: factsheet.html%2Bhtml.body.main.div.section.ul.li:219-2
 msgid "Looks and feels like other browsers"
-msgstr "ظاهر و حس استفاده آن مانند سایر مرورگرها است"
+msgstr "ظاهر و تجربه استفاده آن مانند سایر مرورگرها است"
 
 #: factsheet.html%2Bhtml.body.main.div.section.ul.li:220-2
 msgid ""
@@ -321,15 +322,15 @@ msgid ""
 "reusable systems and tools since 2010, with a focus on online privacy, "
 "resilience and self-determination"
 msgstr ""
-"شرکت فعال در حوزه امنیت دیجیتال، مستقر در شهر مونترال که از سال ۲۰۱۰ مشغول "
-"توسعه سیستم‌ها و ابزارهای متن‌باز و قابل استفاده مجدد بوده و بر حریم خصوصی "
-"آنلاین، تاب‌آوری و حق تصمیم‌گیری تمرکز داشته است"
+"یک شرکت فعال در حوزه امنیت دیجیتال، مستقر در شهر مونترال که از سال ۲۰۱۰ "
+"مشغول توسعه سیستم‌ها و ابزارهای متن‌باز و قابل استفاده مجدد بوده و بر حریم "
+"خصوصی آنلاین، تاب‌آوری و حق تصمیم‌گیری تمرکز داشته است"
 
 #: factsheet.html%2Bhtml.body.main.div.section.ul.li:225-2
 msgid "Maintains the <a href=\"https://deflect.ca\">Deflect.ca</a> service"
 msgstr ""
-"توسعه و نگهداری سرویس <a href=\"https://deflect.ca\">Deflect.ca</a> را بر "
-"عهده دارد"
+"این شرکت توسعه و نگهداری سرویس <a href=\"https://deflect.ca\">Deflect.ca</a> "
+"را بر عهده دارد"
 
 #: factsheet.html%2Bhtml.body.main.div.section.ul.li:226-2
 msgid ""
@@ -341,7 +342,7 @@ msgstr ""
 
 #: factsheet.html%2Bhtml.body.main.div.section.ul.li:227-2
 msgid "Founded by Dmitri Vitaliev"
-msgstr "توسط دیمیتری ویتالیف تاسیس شده است"
+msgstr "توسط دیمیتری ویتالیِف تاسیس شده است"
 
 #: factsheet.html%2Bhtml.body.main.div.section.h3:229-2
 msgid "In use today:"

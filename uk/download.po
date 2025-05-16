@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: support@censorship.no\n"
 "POT-Creation-Date: 2025-05-08 15:37-0400\n"
-"PO-Revision-Date: 2025-04-22 05:32+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-14 01:16+0000\n"
+"Last-Translator: Максим Горпиніч <maksimgorpinic4@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/censorship-no/"
 "website/websitedownload/uk/>\n"
 "Language: uk\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.11.1-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: download.html%2Bhtml[lang]:4-1
 msgid "en"
@@ -26,9 +26,9 @@ msgid ""
 "href=\"news.html\">News</a> <a href=\"help.html\">Community</a> <a "
 "href=\"donate.html\">Donate</a>"
 msgstr ""
-"<a href=\"about.html\">Про</a><a href=\"support.html\">Підтримка</a><a "
-"href=\"news.html\">новини</a><a href=\"help.html\">Спільнота</a><a "
-"href=\"donate.html\">Підтримати</a>"
+"<a href=\"about.html\">Про</a><a href=\"support.html\">Підтримка</a><a href="
+"\"news.html\">Новини</a><a href=\"help.html\">Спільнота</a><a href="
+"\"donate.html\">Підтримати</a>"
 
 #: download.html%2Bhtml.body.nav.div.div.div.label.img[alt]:107-13
 msgctxt "download.html+html.body.nav.div.div.div.label.img[alt]:107-13"
@@ -88,9 +88,9 @@ msgid ""
 "href=\"news.html\">News</a> <a href=\"help.html\">Community</a> <a "
 "href=\"donate.html\">Donate</a>"
 msgstr ""
-"<a href=\"about.html\">Про</a><a href=\"support.html\">Підтримка</a><a "
-"href=\"news.html\">новини</a><a href=\"help.html\">Спільнота</a><a "
-"href=\"donate.html\">Підтримати</a>"
+"<a href=\"about.html\">Про</a><a href=\"support.html\">Підтримка</a><a href="
+"\"news.html\">Новини</a><a href=\"help.html\">Спільнота</a><a href="
+"\"donate.html\">Підтримати</a>"
 
 #: download.html%2Bhtml.body.nav.div.div.a.img[alt]:145-11
 msgid "Download Ceno"
@@ -161,16 +161,12 @@ msgid "Get Ceno Browser"
 msgstr "Отримати браузер Ceno"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p:189-13
-#, fuzzy
-#| msgid ""
-#| "The safest way to install Ceno Browser on your Android phone is through "
-#| "the Google Play Store:"
 msgid ""
 "The safest way to install Ceno Browser on your device is through the Google "
 "Play Store or Microsoft Store:"
 msgstr ""
-"Найбезпечніший спосіб встановити браузер Ceno на Ваш смартфон Android — "
-"Google Play:"
+"Найбезпечніший спосіб встановити Ceno Browser на ваш пристрій – через Google "
+"Play Store або Microsoft Store:"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:193-17
 msgid "Get it on Google Play"
@@ -178,19 +174,15 @@ msgstr "Завантажити з Google Play"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:196-17
 msgid "Get it from Microsoft Store"
-msgstr ""
+msgstr "Завантажити з магазину Microsoft"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p:199-13
-#, fuzzy
-#| msgid ""
-#| "Alternatively, you can install Ceno via F-Droid, the Paskoocheh "
-#| "Marketplace, Github, dComms, or download the APK directly via GitLab:"
 msgid ""
 "Alternatively, you can install Ceno via the Paskoocheh Marketplace, Github, "
 "dComms, or download the APK directly via GitLab:"
 msgstr ""
-"Також можна встановити Ceno через F-Droid, Paskoocheh Marketplace, Github, "
-"dComms, або завантажити APK безпосередньо через GitLab:"
+"Крім того, ви можете встановити Ceno через Paskoocheh Marketplace, Github, "
+"dComms або завантажити APK безпосередньо через GitLab:"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:203-17
 msgid "Get it on Paskoocheh"
@@ -234,22 +226,17 @@ msgid "Direct Download"
 msgstr "Пряме завантаження"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p:239-9
-#, fuzzy
-#| msgid ""
-#| "For advanced users or those unable to install Ceno Browser via the above "
-#| "links, you can download the latest APK directly:"
 msgid ""
 "For advanced users or those unable to install Ceno Browser via the above "
 "links, you can download the latest APK or EXE directly:"
 msgstr ""
-"Досвідченіші користувачі або ті, хто не може встановити браузер Ceno через "
-"вказане посилання, можуть завантажити останню версію APK звідси:"
+"Для досвідчених користувачів або тих, хто не може встановити Ceno Browser за "
+"посиланнями вище, ви можете завантажити найновіший APK або EXE-файл "
+"безпосередньо.:"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p:241-9
-#, fuzzy
-#| msgid "Ceno Browser 2.4.3"
 msgid "Ceno for Android 2.4.3"
-msgstr "Браузер Ceno 2.4.3"
+msgstr "Ceno для Android 2.4.3"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:242-12
 msgid "Download (32-bit ARM)"
@@ -261,13 +248,11 @@ msgstr "Завантажити (64-біт ARM)"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p:247-9
 msgid "Ceno for Windows Alpha 0.0.1-20250425123522"
-msgstr ""
+msgstr "Ceno для Windows Alpha 0.0.1-20250425123522"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:248-12
-#, fuzzy
-#| msgid "Download (64-bit ARM)"
 msgid "Download (x86_64 system-install)"
-msgstr "Завантажити (64-біт ARM)"
+msgstr "Завантажити (встановлення системи x86_64)"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p:251-9
 msgid ""

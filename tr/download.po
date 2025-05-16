@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-08 15:37-0400\n"
-"PO-Revision-Date: 2025-05-01 21:42+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Report-Msgid-Bugs-To: support@censorship.no\n"
+"POT-Creation-Date: 2025-05-01 17:38-0400\n"
+"PO-Revision-Date: 2025-05-14 08:45+0000\n"
+"Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/censorship-no/"
 "website/websitedownload/tr/>\n"
 "Language: tr\n"
@@ -26,13 +26,13 @@ msgid ""
 "href=\"donate.html\">Donate</a>"
 msgstr ""
 "<a href=\"about.html\">Hakkında</a><a href=\"support.html\">Destek</a><a "
-"href=\"news.html\">Haberler</a><a href=\"help.html\">Topluluk</a><a "
-"href=\"donate.html\">Bağış yapın</a>"
+"href=\"news.html\">Haberler</a><a href=\"help.html\">Topluluk</a><a href="
+"\"donate.html\">Bağış yapın</a>"
 
 #: download.html%2Bhtml.body.nav.div.div.div.label.img[alt]:107-13
 msgctxt "download.html+html.body.nav.div.div.div.label.img[alt]:107-13"
 msgid "Select language"
-msgstr "Dil seç"
+msgstr "Dili seçin"
 
 #: download.html%2Bhtml.body.nav.div.div.div.label.div:109-13
 msgid "EN"
@@ -89,8 +89,8 @@ msgid ""
 "href=\"donate.html\">Donate</a>"
 msgstr ""
 "<a href=\"about.html\">Hakkında</a><a href=\"support.html\">Destek</a><a "
-"href=\"news.html\">Haberler</a><a href=\"help.html\">Topluluk</a><a "
-"href=\"donate.html\">Bağış yapın</a>"
+"href=\"news.html\">Haberler</a><a href=\"help.html\">Topluluk</a><a href="
+"\"donate.html\">Bağış yapın</a>"
 
 #: download.html%2Bhtml.body.nav.div.div.a.img[alt]:145-11
 msgid "Download Ceno"
@@ -108,7 +108,7 @@ msgstr "Ceno logosu"
 #: download.html%2Bhtml.body.nav.div.div.label.img[alt]:153-11
 msgctxt "download.html+html.body.nav.div.div.label.img[alt]:153-11"
 msgid "Select language"
-msgstr "Dil seç"
+msgstr "Dili seçin"
 
 #.  Sorted alphabetically by language code. 
 #.  TRANSLATORS: Please do not translate any of these. 
@@ -161,57 +161,55 @@ msgid "Get Ceno Browser"
 msgstr "Ceno Browser edinin"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p:189-13
-#, fuzzy
-#| msgid ""
-#| "The safest way to install Ceno Browser on your Android phone is through "
-#| "the Google Play Store:"
 msgid ""
-"The safest way to install Ceno Browser on your device is through the Google "
-"Play Store or Microsoft Store:"
+"The safest way to install Ceno Browser on your Android phone is through the "
+"Google Play Store:"
 msgstr ""
-"Ceno Browser Android telefonunuza kurmanın en güvenli yolu Google Play Store "
+"Android telefonunuza Ceno Browser kurmanın en güvenli yolu Google Play Store "
 "kullanmaktır:"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:193-17
 msgid "Get it on Google Play"
 msgstr "Google Play üzerinden edinin"
 
-#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:196-17
-msgid "Get it from Microsoft Store"
-msgstr ""
-
-#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p:199-13
-#, fuzzy
-#| msgid ""
-#| "Alternatively, you can install Ceno via F-Droid, the Paskoocheh "
-#| "Marketplace, Github, dComms, or download the APK directly via GitLab:"
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p:195-13
 msgid ""
-"Alternatively, you can install Ceno via the Paskoocheh Marketplace, Github, "
-"dComms, or download the APK directly via GitLab:"
+"Alternatively, you can install Ceno via F-Droid, the Paskoocheh Marketplace, "
+"Github, dComms, or download the APK directly via GitLab:"
 msgstr ""
 "Ayrıca, Ceno uygulamasını F-Droid, Paskoocheh, GitHub, dComms ile kurabilir "
 "ya da doğrudan GitLab üzerinden APK dosyasını indirebilirsiniz:"
 
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:198-17
+msgid "Get it on F-droid"
+msgstr "F-Droid üzerinden edinin"
+
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:202-17
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:203-17
 msgid "Get it on Paskoocheh"
 msgstr "Paskoocheh üzerinden edinin"
 
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:205-17
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:206-17
 msgid "Get it on GitLab"
-msgstr "GitLab üzerinden alın"
+msgstr "GitLab üzerinden edinin"
 
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:208-17
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:209-17
 msgid "Get it on Github"
-msgstr "GitHub üzerinden alın"
+msgstr "GitHub üzerinden edinin"
 
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:211-17
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:212-17
 msgid "Get it on dComms"
-msgstr "dComms üzerinden alın"
+msgstr "dComms üzerinden edinin"
 
+#: download.html%2Bhtml.body.main.section.div.div.h3:223-7
 #: download.html%2Bhtml.body.main.section.div.div.h3:224-7
 msgid "Important:"
 msgstr "Önemli:"
 
+#: download.html%2Bhtml.body.main.section.div.div.p:224-7
 #: download.html%2Bhtml.body.main.section.div.div.p:225-7
 msgid ""
 "Ceno has two modes of operation - <strong>Public</strong> and "
@@ -231,46 +229,34 @@ msgstr ""
 "ayrıntılı bilgi almak için <a href=\"support.html\">SSS</a> veya <a "
 "href=\"../user-manual/\">Kullanım rehberi</a>' bölümlerine bakabilirsiniz."
 
+#: download.html%2Bhtml.body.main.section.div.div.div.h3:237-9
 #: download.html%2Bhtml.body.main.section.div.div.div.h3:238-9
 msgid "Direct Download"
-msgstr "Direkt İndirme"
+msgstr "Doğrudan indirme"
 
-#: download.html%2Bhtml.body.main.section.div.div.div.p:239-9
-#, fuzzy
-#| msgid ""
-#| "For advanced users or those unable to install Ceno Browser via the above "
-#| "links, you can download the latest APK directly:"
+#: download.html%2Bhtml.body.main.section.div.div.div.p:238-9
 msgid ""
 "For advanced users or those unable to install Ceno Browser via the above "
-"links, you can download the latest APK or EXE directly:"
+"links, you can download the latest APK directly:"
 msgstr ""
 "Deneyimli kullanıcılar ya da yukarıdaki bağlantılardan Ceno Browser "
 "kuramayanlar doğrudan APK dosyasını indirebilirler:"
 
-#: download.html%2Bhtml.body.main.section.div.div.div.p:241-9
-#, fuzzy
-#| msgid "Ceno Browser 2.4.3"
-msgid "Ceno for Android 2.4.3"
+#: download.html%2Bhtml.body.main.section.div.div.div.p:240-9
+msgid "Ceno Browser 2.4.3"
 msgstr "Ceno Browser 2.4.3"
 
+#: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:241-12
 #: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:242-12
 msgid "Download (32-bit ARM)"
 msgstr "İndir (32-bit ARM)"
 
+#: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:243-11
 #: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:244-11
 msgid "Download (64-bit ARM)"
 msgstr "İndir (64-bit ARM)"
 
-#: download.html%2Bhtml.body.main.section.div.div.div.p:247-9
-msgid "Ceno for Windows Alpha 0.0.1-20250425123522"
-msgstr ""
-
-#: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:248-12
-#, fuzzy
-#| msgid "Download (64-bit ARM)"
-msgid "Download (x86_64 system-install)"
-msgstr "İndir (64-bit ARM)"
-
+#: download.html%2Bhtml.body.main.section.div.div.div.p:246-9
 #: download.html%2Bhtml.body.main.section.div.div.div.p:251-9
 msgid ""
 "Run this to <a href=\"https://developer.android.com/studio/command-line/"
@@ -282,6 +268,7 @@ msgstr ""
 "line/apksigner#usage-verify\">doğrulamak</a> için bunu çalıştırın:"
 
 #.  TRANSLATORS: Please do not translate any of these. 
+#: download.html%2Bhtml.body.main.section.div.div.div.pre:250-9
 #: download.html%2Bhtml.body.main.section.div.div.div.pre:255-9
 msgid ""
 "> apksigner verify --print-certs ceno-[…].apk<br>Signer #1 certificate DN: "
@@ -292,8 +279,7 @@ msgstr ""
 "CN=equalit.ie<br>Signer #1 certificate SHA-256 digest: "
 "a59d20c076f6170a2c13d9ce96cd4349688f907898dfc3c89b0ae6ebe9f7edca<br>[…]"
 
-#: download.html%2Bhtml.body.main.section.div.div.div.p:257-9
-#, fuzzy
+#: download.html%2Bhtml.body.main.section.div.div.div.p:252-9
 msgid ""
 "You can also verify the <a href=\"https://ceno-download.s3.amazonaws.com/"
 "ceno/v2.4.3/sha256sums.txt.asc\">signatures</a> of <a href=\"https://ceno-"
@@ -305,10 +291,11 @@ msgstr ""
 "<a href=\"https://ceno-download.s3.amazonaws.com/ceno/v2.4.2/sha256sums.txt."
 "asc\">Dosya karmalarının</a> <a href=\"https://ceno-download.s3.amazonaws."
 "com/ceno/v2.4.2/sha256sums.txt\">imzalarını</a>, <a href=\"https://pgp.mit."
-"edu/pks/lookup?op=get&search=0xC7DCC123F0DDB862\">PGP anahtarımızla</a> göre "
-"de doğrulayabilirsiniz (<code>51BE 600C 2711 926C 865D F93F C7DC C123 F0DD "
+"edu/pks/lookup?op=get&search=0xC7DCC123F0DDB862\">PGP anahtarımızla</a> da "
+"doğrulayabilirsiniz (<code>51BE 600C 2711 926C 865D F93F C7DC C123 F0DD "
 "B862</code> parmak iziyle)."
 
+#: download.html%2Bhtml.body.footer.div.p:275-9
 #: download.html%2Bhtml.body.footer.div.p:280-9
 msgid ""
 "Ceno Browser is a project by <a href=\"https://equalit.ie\">eQualit.ie</a> – "
@@ -318,14 +305,15 @@ msgid ""
 "values. Everyday, they enable freedom of association for millions of people "
 "online."
 msgstr ""
-"Ceno Browser, daha eşit ve adaletli bir ağı desteklemek için merkezi olmayan "
-"İnternet hizmetleri oluşturan, kar amacı gütmeyen bir Kanada kuruluşu olan "
-"<a href=\"https://equalit.ie\">eQualit.ie</a>'nin bir projesidir. . "
-"eQualitie çözümleri açık kaynaklıdır, savaş alanında kanıtlanmış ve "
-"değerlerimiz akılda tutularak geliştirilmiştir. Her gün milyonlarca insana "
-"çevrim içi olarak örgütlenme özgürlüğü sağlıyorlar."
+"Ceno Browser, daha eşit ve adil bir ağ oluşturmak için merkezi olmayan "
+"internet hizmetleri tasarlayan, kar amacı gütmeyen bir Kanada kuruluşu olan "
+"<a href=\"https://equalit.ie\">eQualit.ie</a> tarafından geliştirilmiş bir "
+"projedir. eQualitie çözümleri açık kaynaklıdır, sahada kanıtlanmış ve "
+"değerlerimize saygı göstererek geliştirilmiştir. Her gün milyonlarca insana "
+"çevrim içi olarak örgütlenme özgürlüğü sağlıyor."
 
 #.  TRANSLATORS: Please do not translate this. 
+#: download.html%2Bhtml.body.footer:277-23
 #: download.html%2Bhtml.body.footer:282-23
 #, fuzzy
 msgid ""
@@ -335,8 +323,45 @@ msgstr ""
 "© Censorship.no! 2018<script>new Date().getFullYear()>2018&&document."
 "write(\"-\"+new Date().getFullYear());</script>"
 
-#~ msgid "Get it on F-droid"
-#~ msgstr "F-Droid üzerinden alın"
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p:189-13
+msgid ""
+"The safest way to install Ceno Browser on your device is through the Google "
+"Play Store or Microsoft Store:"
+msgstr ""
+"Aygıtınıza Ceno Browser kurmanın en güvenli yolu Google Play Store ya da "
+"Microsoft Store kullanmaktır:"
+
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:196-17
+msgid "Get it from Microsoft Store"
+msgstr "Microsoft Store üzerinden edinin"
+
+#: download.html%2Bhtml.body.main.section.div.div.div.div.div.p:199-13
+msgid ""
+"Alternatively, you can install Ceno via the Paskoocheh Marketplace, Github, "
+"dComms, or download the APK directly via GitLab:"
+msgstr ""
+"Ayrıca, Ceno uygulamasını Paskoocheh mağazası, GitHub, dComms ile kurabilir "
+"ya da doğrudan GitLab üzerinden APK dosyasını indirebilirsiniz:"
+
+#: download.html%2Bhtml.body.main.section.div.div.div.p:239-9
+msgid ""
+"For advanced users or those unable to install Ceno Browser via the above "
+"links, you can download the latest APK or EXE directly:"
+msgstr ""
+"Deneyimli kullanıcılar ya da yukarıdaki bağlantılardan Ceno Browser "
+"kuramayanlar doğrudan APK veya EXE dosyasını indirebilirler:"
+
+#: download.html%2Bhtml.body.main.section.div.div.div.p:241-9
+msgid "Ceno for Android 2.4.3"
+msgstr "Android için Ceno 2.4.3"
+
+#: download.html%2Bhtml.body.main.section.div.div.div.p:247-9
+msgid "Ceno for Windows Alpha 0.0.1-20250425123522"
+msgstr "Windows için Ceno Alpha 0.0.1-20250425123522"
+
+#: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:248-12
+msgid "Download (x86_64 system-install)"
+msgstr "İndir (x86_64 system-install)"
 
 #~ msgid "Ceno Browser 2.3.1"
 #~ msgstr "Ceno Browser 2.3.1"
