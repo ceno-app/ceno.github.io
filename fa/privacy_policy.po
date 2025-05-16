@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-02 10:10-0700\n"
-"PO-Revision-Date: 2025-05-16 10:01+0000\n"
+"PO-Revision-Date: 2025-05-16 13:45+0000\n"
 "Last-Translator: Mehdi Oloomi <mehdi@equalitie.org>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/censorship-no/"
 "website-privacy/fa/>\n"
@@ -146,17 +146,15 @@ msgstr ""
 
 #: privacy_policy.html%2Bhtml.body.main.title:178-54
 msgid "Ceno Browser | Privacy Policy"
-msgstr "مرورگر سنو | حریم خصوصی"
+msgstr "مرورگر سِنو | حریم خصوصی"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h1:181-1
-#, fuzzy
-#| msgid "Ceno Browser | Privacy Policy"
 msgid "Ceno Browser Terms of Use & Privacy Notice"
-msgstr "مرورگر سنو | حریم خصوصی"
+msgstr "شرایط استفاده و اطلاعیه حریم خصوصی مرورگر سِنو"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h2:183-1
 msgid "1. Overview"
-msgstr ""
+msgstr "۱. مقدمه"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:184-1
 msgid ""
@@ -171,7 +169,7 @@ msgstr ""
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h2:186-1
 msgid "2. Terms of use"
-msgstr ""
+msgstr "۲. شرایط استفاده"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:187-1
 msgid ""
@@ -196,12 +194,17 @@ msgid ""
 "sexually exploits or promotes the sexual exploitation of minors), unlawful "
 "pornography, or are otherwise indecent;"
 msgstr ""
+"شامل محتوای سوءاستفاده جنسی از کودکان می‌شود (حتی اگر از نظر قانونی جزو "
+"سوءاستفاده جنسی کودک محسوب نشود، اما بهره‌کشی جنسی از کودکان یا ترویج آن را "
+"در بر داشته باشد)، پورنوگرافی غیرقانونی یا هرگونه محتوای خلاف عفت عمومی است؛"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:191-1
 msgid ""
 "Contains or promotes extreme acts of violence or terrorist activity, "
 "including terror or violent extremist propaganda;"
 msgstr ""
+"حاوی اعمال خشونت‌آمیز افراطی یا فعالیت‌های تروریستی است یا آن‌ها را ترویج می‌دهد،"
+" از جمله تبلیغات تروریستی یا افراط‌گرایانه خشونت‌طلب؛"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:192-1
 msgid ""
@@ -211,16 +214,21 @@ msgid ""
 "any other characteristic(s) associated with systemic discrimination or "
 "marginalization;"
 msgstr ""
+"مروج تعصب، نفرت یا تحریک به خشونت علیه فرد یا گروهی از افراد بر اساس نژاد، "
+"مذهب، قومیت، ملیت، جنسیت، هویت جنسیتی، گرایش جنسی، ناتوانی، معلولیت یا هر "
+"ویژگی دیگری مرتبط با تبعیض یا به‌حاشیه‌راندگی سیستماتیک باشد؛"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:193-1
 msgid ""
 "Contains files with viruses, trojans, worms, logic bombs or other material "
 "that is malicious or technologically harmful."
 msgstr ""
+"شامل فایل‌هایی حاوی ویروس، تروجان، کرم، بمب منطقی (logic bombs) یا دیگر "
+"محتوای مخرب یا زیان‌بار از منظر فناورانه باشد."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:196-1
 msgid "Content Responsibility"
-msgstr ""
+msgstr "مسئولیت محتوا"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:198-1
 msgid ""
@@ -235,12 +243,20 @@ msgid ""
 "of Use, including the promotion of illegal, harmful, or otherwise prohibited "
 "material."
 msgstr ""
+"eQualitie مسئولیتی در قبال محتوایی که کاربران از طریق شبکه بیت‌تورنت یا "
+"سرورهای شخص ثالث به اشتراک می‌گذارند یا توزیع می‌کنند ندارد. در حالی که سِنو "
+"بستر اشتراک‌گذاری غیرمتمرکز محتوا را فراهم می‌کند، مسئولیت قانونی و اخلاقی "
+"محتوای به اشتراک‌گذاشته‌شده کاملا بر عهده کاربران است. به کاربران توصیه می‌شود "
+"هنگام استفاده از این سرویس، قوانین مربوطه و دستورالعمل‌های اجتماعی را رعایت "
+"کنند. سِنو محتوای کاربران را به‌صورت فعال پایش یا مدیریت نمی‌کند، اما در صورت "
+"دریافت گزارش سوءاستفاده‌ای که ناقض این شرایط استفاده باشد – از جمله ترویج "
+"محتوای غیرقانونی، آسیب‌زننده یا ممنوع – این حق را برای خود محفوظ می‌دارد که "
+"بررسی کرده و اقدامات لازم (مانند غیرفعال‌سازی دسترسی به برخی قابلیت‌ها) را "
+"انجام دهد."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h2:200-1
-#, fuzzy
-#| msgid "Ceno Privacy Notice"
 msgid "3. Privacy Notice"
-msgstr "اطلاعیه اعلامیه حریم خصوصی سنو"
+msgstr "۳. اطلاعیه حریم خصوصی"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:202-1
 msgid ""
@@ -251,7 +267,7 @@ msgstr ""
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h3:204-1
 msgid "3.1 Data Collection"
-msgstr ""
+msgstr "۳.۱ جمع‌آوری داده"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:206-1
 msgid ""
