@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: support@censorship.no\n"
 "POT-Creation-Date: 2025-05-08 15:37-0400\n"
-"PO-Revision-Date: 2025-05-16 10:01+0000\n"
+"PO-Revision-Date: 2025-05-16 13:45+0000\n"
 "Last-Translator: LordTenebrous <danielmorenoperez836@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/censorship-no/"
 "website/websitedownload/es/>\n"
@@ -159,16 +159,12 @@ msgid "Get Ceno Browser"
 msgstr "Obtén el Navegador Ceno"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p:189-13
-#, fuzzy
-#| msgid ""
-#| "The safest way to install Ceno Browser on your Android phone is through "
-#| "the Google Play Store:"
 msgid ""
 "The safest way to install Ceno Browser on your device is through the Google "
 "Play Store or Microsoft Store:"
 msgstr ""
-"La manera más segura de instalar al Navegador Ceno en tu teléfono Android es "
-"a través de Google Play Store:"
+"La manera más segura de instalar el Navegador Ceno en tu dispositivo es a "
+"través de Google Play Store:"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:193-17
 msgid "Get it on Google Play"
@@ -179,15 +175,11 @@ msgid "Get it from Microsoft Store"
 msgstr "Consíguelo de la tienda de Microsoft"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p:199-13
-#, fuzzy
-#| msgid ""
-#| "Alternatively, you can install Ceno via F-Droid, the Paskoocheh "
-#| "Marketplace, Github, dComms, or download the APK directly via GitLab:"
 msgid ""
 "Alternatively, you can install Ceno via the Paskoocheh Marketplace, Github, "
 "dComms, or download the APK directly via GitLab:"
 msgstr ""
-"También puedes instalar Ceno a través de F-Droid, Paskoocheh Marketplace, "
+"Alternativamente, puedes instalar Ceno a través de Paskoocheh Marketplace, "
 "Github, dComms o descargar el APK directamente a través de GitLab:"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:203-17
@@ -234,23 +226,17 @@ msgid "Direct Download"
 msgstr "Descarga Directa"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p:239-9
-#, fuzzy
-#| msgid ""
-#| "For advanced users or those unable to install Ceno Browser via the above "
-#| "links, you can download the latest APK directly:"
 msgid ""
 "For advanced users or those unable to install Ceno Browser via the above "
 "links, you can download the latest APK or EXE directly:"
 msgstr ""
-"Para usuaria(o)s avanzada(o)s o para quienes no pueden instalar el Navegador "
-"Ceno a través de los vínculos de arriba, pueden descargar la APK más "
-"reciente directamente:"
+"Para usuarios avanzados o para quienes no pueden instalar el Navegador Ceno "
+"a través de los vínculos de arriba, pueden descargar directamente el APK o "
+"EXE más reciente:"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p:241-9
-#, fuzzy
-#| msgid "Ceno Browser 2.4.2"
 msgid "Ceno for Android 2.4.3"
-msgstr "Navegador Ceno 2.4.2"
+msgstr "Ceno para Android 2.4.3"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:242-12
 msgid "Download (32-bit ARM)"
@@ -262,7 +248,7 @@ msgstr "Descargar (64-bit ARM)"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p:247-9
 msgid "Ceno for Windows Alpha 0.0.1-20250425123522"
-msgstr ""
+msgstr "Ceno para Windows Alpha 0.0.1-20250425123522"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.p.input[value]:248-12
 #, fuzzy
