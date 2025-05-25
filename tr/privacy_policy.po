@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-02 10:10-0700\n"
-"PO-Revision-Date: 2025-05-25 07:40+0000\n"
+"PO-Revision-Date: 2025-05-26 11:01+0000\n"
 "Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/censorship-no/"
 "website-privacy/tr/>\n"
@@ -571,16 +571,28 @@ msgid ""
 "device unless the user decides to send it to us for support purposes, and is "
 "automatically deleted when its sizes reaches 15 MB."
 msgstr ""
+"Kullanıcılar, Ceno Browser ayarlar menüsünden günlük kaydını "
+"etkinleştirebilirler. Etkinleştirildiğinde, Ceno Browser kullanıcıların "
+"aygıtlarında günlük dosyaları oluşturur. Bu dosyaların amacı, bir "
+"kullanıcının eşleriyle bağlantı kurmakta veya Ceno kullanmakta zorluk "
+"çekmesi durumunda hata bulma işlemini kolaylaştırmak için aygıtın "
+"etkinliğini kaydetmektir. Kullanıcı destek amacıyla bize göndermeye karar "
+"vermedikçe günlük dosyası bir kullanıcının aygıtında kalır ve boyutu 15 MB "
+"olduğunda otomatik olarak silinir."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:242-1
 msgid ""
 "If the user does decide to contact us, the personally identifiable data we "
 "may collect is:"
 msgstr ""
+"Kullanıcı bize iletirse, toplayabileceğimiz sizi kişisel olarak "
+"tanımlayabilecek veriler şunlardır:"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:244-1
 msgid "Email address - if the user decided to contact us by email;"
 msgstr ""
+"E-posta adresi - Kullanıcı bizimle e-posta yoluyla iletişim kurmaya karar "
+"verirse;"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:245-1
 msgid ""
@@ -588,14 +600,17 @@ msgid ""
 "eQualitie websites, and associated metadata - for the purposes of providing "
 "technical support;"
 msgstr ""
+"Kullanıcının teknik destek sağlamak amacıyla e-posta ile, destek kayıtları "
+"üzerinden veya eQualitie siteleri ve ilgili üst veriler ile sağlayabileceği "
+"bilgiler;"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:246-1
 msgid "Web browsing activity and history."
-msgstr ""
+msgstr "İnternet gezinme etkinliği ve geçmişi."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:249-1
 msgid "None of this data is shared with any third parties."
-msgstr ""
+msgstr "Bu verilerin hiçbiri herhangi bir üçüncü tarafla paylaşılmaz."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h3:251-1
 msgid "3.4 Crash Reporting"
@@ -608,6 +623,11 @@ msgid ""
 "while running the app. Crash reports are forwarded automatically to a server "
 "run by eQualitie. We use Sentry for crash reporting."
 msgstr ""
+"Kullanıcılar, Ceno Browser ayarlar menüsünden çökme bildirimini "
+"etkinleştirebilir. Etkinleştirildiğinde, Ceno Browser, uygulama çalışırken "
+"bir sorun çıkması durumunda çökme bildirimleri gönderir. Çökme bildirimleri "
+"otomatik olarak eQualitie tarafından işletilen bir sunucuya iletilir. Çökme "
+"bildirimleri için Sentry kullanıyoruz."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:255-1
 msgid ""
@@ -639,53 +659,72 @@ msgid ""
 "and we do not make any representations or warranties regarding their "
 "content, security, or privacy practices."
 msgstr ""
+"Bu hizmette, üçüncü taraflarca işletilen sitelere veya hizmetlere "
+"bağlantılar bulunabilir. Bu dış siteler eQualitie tarafından kontrol edilmez "
+"veya izlenmez ve içerik, güvenlik veya gizlilik uygulamalarıyla ilgili "
+"herhangi bir beyanda bulunmayız veya garanti vermeyiz."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:265-1
 msgid "By clicking on a third-party link, you acknowledge and agree that:"
-msgstr ""
+msgstr "Üçüncü taraf bir bağlantıya tıklayarak şunları kabul etmiş olursunuz:"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:267-1
 msgid ""
 "Your interactions with third-party sites are governed solely by their "
 "respective terms of use and privacy policies."
 msgstr ""
+"Üçüncü taraf sitelerle etkileşimleriniz yalnızca ilgili kullanım koşullarına "
+"ve gizlilik ilkelerine tabidir."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:268-1
 msgid ""
 "eQualitie is not responsible for any content, data collection, or practices "
 "of third-party websites or services."
 msgstr ""
+"eQualitie, üçüncü taraf sitelerin veya hizmetlerinin herhangi bir "
+"içeriğinden, veri toplamasından veya uygulamalarından sorumlu değildir."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:269-1
 msgid "Visiting external sites linked from Ceno is entirely at your own risk."
 msgstr ""
+"Ceno ile bağlantılı dış siteleri ziyaret etmek tümüyle kendi "
+"sorumluluğunuzdadır."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:271-1
 msgid "We strongly recommend that you:"
-msgstr ""
+msgstr "Şunları önemle öneririz:"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:273-1
 msgid ""
 "Exercise caution when clicking on links to unfamiliar or untrusted sites."
 msgstr ""
+"Tanıdık olmayan veya güvenilmeyen site bağlantılarına tıklarken dikkatli "
+"olun."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:274-1
 msgid ""
 "Review the privacy policies and terms of use of any third-party website you "
 "visit."
 msgstr ""
+"Ziyaret ettiğiniz herhangi bir üçüncü taraf sitenin gizlilik ilkelerini ve "
+"kullanım koşullarını gözden geçirin."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:275-1
 msgid ""
 "Refrain from providing personal or sensitive information to external sites "
 "unless you are confident in their security and intent."
 msgstr ""
+"Güvenliklerinden ve niyetlerinden emin olmadığınız sürece dış sitelere "
+"kişisel veya önemli bilgileri vermekten kaçının."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:277-1
 msgid ""
 "eQualitie disclaims all liability for any harm, loss, or damage arising from "
 "your use of third-party links or services."
 msgstr ""
+"eQualitie, üçüncü taraf bağlantılarını veya hizmetlerini kullanmanızdan "
+"kaynaklanabilecek herhangi bir zarar, kayıp veya hasar ile ilgili tüm "
+"sorumluluğu reddeder."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h3:279-1
 msgid "3.7 Children’s Privacy"
@@ -706,6 +745,19 @@ msgid ""
 "information in your country (in some countries we may allow your parent or "
 "guardian to do so on your behalf)."
 msgstr ""
+"Çocuklardan özellikle onları kişisel olarak tanımlayabilecek bilgileri "
+"toplamıyoruz. Tüm çocukları uygulama ve/veya hizmetler üzerinden hiçbir "
+"zaman kişisel olarak tanımlanabilecekleri herhangi bir bilgi göndermemeye "
+"özendiriyoruz. Ebeveynleri ve yasal vasileri, çocuklarının internet "
+"kullanımını izlemeye ve çocuklarına izinleri olmadan uygulama ve/veya "
+"hizmetler üzerinden asla kişisel olarak tanımlanabilecekleri bilgiler "
+"vermemeleri konusunda bilgi vermeye ve bu ilkenin uygulanmasına yardımcı "
+"olmaya özendiriyoruz. Bir çocuğun uygulama ve/veya hizmetler üzerinden bize "
+"kişisel olarak tanımlanabilecekleri bilgiler verdiğine inanmak için bir "
+"nedeniniz varsa, lütfen bizimle görüşün. Ayrıca, kişisel olarak "
+"tanımlanabilecekleri bilgilerinizin ülkenizde işlenmesine izin vermek için "
+"en az 16 yaşında olmalısınız (bazı ülkelerde ebeveyninizin veya velinizin "
+"bunu sizin adınıza yapmasına izin verebiliriz)."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h3:283-1
 msgid "3.8 Changes to these Terms"
@@ -716,6 +768,8 @@ msgid ""
 "We may update these Terms from time to time. Thus, you are advised to review "
 "this page periodically for any changes."
 msgstr ""
+"Bu koşulları güncelleyebiliriz. Bu nedenle, herhangi bir değişiklik olup "
+"olmadığını görmek için bu sayfayı düzenli olarak gözden geçirmeniz önerilir."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:287-1
 msgid "This policy is effective as of 2024-12-18."
@@ -730,6 +784,8 @@ msgid ""
 "<b>Bootstrap Servers:</b> Servers used to help your device get into the "
 "BitTorrent network."
 msgstr ""
+"<b>Ön yükleme sunucuları:</b> Aygıtınızın BitTorrent ağına girmesine "
+"yardımcı olmak için kullanılan sunucular."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:293-1
 msgid ""
@@ -737,18 +793,28 @@ msgid ""
 "running Ceno Browser that serve to route web content requests if other "
 "connectivity mechanisms are inaccessible or unavailable."
 msgstr ""
+"<b>Köprüler:</b> Diğer bağlantı yöntemleri erişilemediğinde veya "
+"kullanılamadığından internet içeriği isteklerini yönlendirmeyi sağlayan Ceno "
+"Browser işleten sunucular (köprü kipi etkinse kullanıcıların aygıtları ile "
+"birlikte)."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:295-1
 msgid ""
 "<b>Injectors:</b> Servers run by eQualitie that route web content from "
 "origin servers to Ceno users’ devices requesting that content."
 msgstr ""
+"<b>İçerik ekleyicileri:</b> İnternet içeriğini kaynak sunuculardan Ceno "
+"kullanıcılarının bu içeriği isteyen aygıtlarına yönlendiren ve eQualitie "
+"tarafından işletilen sunucular."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:297-1
 msgid ""
 "<b>Personal Mode:</b> Browsing activity in Personal Mode is not shared with "
 "anyone else. Web content is securely retrieved from origin or via Injectors."
 msgstr ""
+"<b>Kişisel kip:</b> Kişisel kipte gezinme etkinliği başka kimseyle "
+"paylaşılmaz. İnternet içeriği, kaynaktan veya içerik ekleyiciler üzerinden "
+"güvenli bir şekilde alınır."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:299-1
 msgid ""
@@ -757,6 +823,11 @@ msgid ""
 "this content with other Ceno users via the BitTorrent network, and leaves a "
 "public record of your device’s IP address and content retrieved."
 msgstr ""
+"<b>Herkese açık kip:</b> Herkese açık kipte gezinme etkinliği, Ceno ağından "
+"internet içeriğini almak için geçerli tüm bağlantı yöntemlerini kullanır. Bu "
+"içeriği BitTorrent ağı üzerinden diğer Ceno kullanıcılarıyla paylaşır ve "
+"aygıtınızın IP adresinin ve alınan içeriğinin herkese açık bir kaydını "
+"bırakır."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h2:301-1
 msgid "Contact Us"
@@ -767,6 +838,8 @@ msgid ""
 "If you have any questions or suggestions about this Privacy Policy, do not "
 "hesitate to contact us at: support [at] censorship [dot] no."
 msgstr ""
+"Bu gizlilik ilkesi hakkında herhangi bir sorunuz veya öneriniz varsa, şu "
+"adrese yazarak bizimle görüşebilirsiniz: support [at] cencorship [dot] no."
 
 #: privacy_policy.html%2Bhtml.body.footer.div.p:320-9
 msgid ""
