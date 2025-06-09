@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-08 15:37-0400\n"
 "PO-Revision-Date: 2025-06-09 02:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/censorship-no/"
 "websitehelp/pt/>\n"
 "Language: pt\n"
@@ -116,11 +116,11 @@ msgstr ""
 
 #: help.html%2Bhtml.body.main.title:178-49
 msgid "Ceno Browser | Community"
-msgstr ""
+msgstr "Ceno Browser | Comunidade"
 
 #: help.html%2Bhtml.body.main.div.h1:180-5
 msgid "Get Involved!"
-msgstr ""
+msgstr "Participar!"
 
 #: help.html%2Bhtml.body.main.div.p:181-2
 msgid ""
@@ -131,7 +131,7 @@ msgstr ""
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.h4:191-17
 msgid "Translations"
-msgstr ""
+msgstr "Traduções"
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.p:193-9
 msgid ""
@@ -153,11 +153,11 @@ msgstr ""
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.div:196-17
 msgid "Join our Weblate"
-msgstr ""
+msgstr "Adira ao nosso Weblate"
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.h4:207-17
 msgid "User Research"
-msgstr ""
+msgstr "Sondagem do Utilizador"
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.p:208-3
 msgid ""
@@ -183,11 +183,11 @@ msgstr ""
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.div:212-17
 msgid "Take a survey"
-msgstr ""
+msgstr "Participe numa sondagem"
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.h4:223-17
 msgid "Source Code"
-msgstr ""
+msgstr "Código Fonte"
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.p:224-3
 msgid ""
@@ -197,7 +197,7 @@ msgstr ""
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.p.ul.li:226-12
 msgid "Ceno Browser"
-msgstr ""
+msgstr "Ceno Browser"
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.p.ul.li:227-5
 msgid "Mozilla Build Scripts"
@@ -209,7 +209,7 @@ msgstr ""
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.p.ul.li:229-12
 msgid "Ouinet"
-msgstr ""
+msgstr "Ouinet"
 
 #: help.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.p.ul.li:230-5
 msgid "Ceno Docker Client"
