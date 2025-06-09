@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-02 10:10-0700\n"
-"PO-Revision-Date: 2025-05-17 14:01+0000\n"
+"PO-Revision-Date: 2025-06-10 03:01+0000\n"
 "Last-Translator: Mehdi Oloomi <mehdi@equalitie.org>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/censorship-no/"
 "website-privacy/fa/>\n"
@@ -146,7 +146,7 @@ msgstr ""
 
 #: privacy_policy.html%2Bhtml.body.main.title:178-54
 msgid "Ceno Browser | Privacy Policy"
-msgstr "مرورگر سِنو | حریم خصوصی"
+msgstr "مرورگر سِنو | سیاست حریم خصوصی"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h1:181-1
 msgid "Ceno Browser Terms of Use & Privacy Notice"
@@ -204,7 +204,7 @@ msgid ""
 "including terror or violent extremist propaganda;"
 msgstr ""
 "حاوی اعمال خشونت‌آمیز افراطی یا فعالیت‌های تروریستی است یا آن‌ها را ترویج می‌دهد،"
-" از جمله تبلیغات تروریستی یا افراط‌گرایانه خشونت‌طلب؛"
+" از جمله تبلیغات تروریستی یا افراط‌گرایانه خشونت‌طلب؛‌"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:192-1
 msgid ""
@@ -574,7 +574,7 @@ msgid ""
 "visit."
 msgstr ""
 "پیش از استفاده از هر سایت، سیاست‌های حریم خصوصی و شرایط استفاده آن را مطالعه "
-"کنید؛"
+"کنید؛‌"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:275-1
 msgid ""
