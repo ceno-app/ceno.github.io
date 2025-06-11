@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-02 10:10-0700\n"
-"PO-Revision-Date: 2025-06-01 23:01+0000\n"
-"Last-Translator: JKzeta <kevincalpa00@gmail.com>\n"
+"PO-Revision-Date: 2025-06-11 09:03+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/censorship-no/"
 "website-privacy/es/>\n"
 "Language: es\n"
@@ -430,7 +430,7 @@ msgstr ""
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h3:238-1
 msgid "3.3 Log Data"
-msgstr ""
+msgstr "3.3 Datos de registro"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:240-1
 msgid ""
@@ -448,10 +448,14 @@ msgid ""
 "If the user does decide to contact us, the personally identifiable data we "
 "may collect is:"
 msgstr ""
+"Si el usuario decide ponerse en contacto con nosotros, los datos personales "
+"identificables que podemos recopilar son:"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:244-1
 msgid "Email address - if the user decided to contact us by email;"
 msgstr ""
+"Dirección de correo electrónico - si el usuario decidió contactarnos por "
+"correo electrónico;"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:245-1
 msgid ""
@@ -459,18 +463,21 @@ msgid ""
 "eQualitie websites, and associated metadata - for the purposes of providing "
 "technical support;"
 msgstr ""
+"Información que el usuario puede proporcionar por correo electrónico, "
+"mediante tickets de ayuda, o a través de sitios web de eQualitie, y "
+"metadatos asociados, con el fin de proporcionar apoyo técnico;"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:246-1
 msgid "Web browsing activity and history."
-msgstr ""
+msgstr "Actividad de navegación web e historia."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:249-1
 msgid "None of this data is shared with any third parties."
-msgstr ""
+msgstr "Ninguno de estos datos se comparte con terceros."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h3:251-1
 msgid "3.4 Crash Reporting"
-msgstr ""
+msgstr "3.4 Crash Reporting"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:253-1
 msgid ""
@@ -479,6 +486,11 @@ msgid ""
 "while running the app. Crash reports are forwarded automatically to a server "
 "run by eQualitie. We use Sentry for crash reporting."
 msgstr ""
+"Los usuarios pueden optar por interrumpir reportando a través del menú "
+"Ajustes en Ceno Browser. Cuando esté habilitado, Ceno Browser enviará "
+"informes de fallos en caso de un problema al ejecutar la aplicación. Los "
+"informes Crash se envían automáticamente a un servidor gestionado por "
+"eQualitie. Usamos a Sentry para reportar accidentes."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:255-1
 msgid ""
@@ -486,18 +498,22 @@ msgid ""
 "aggregated into broader issues, and are deleted after the above retention "
 "period. Issues are deleted when all associated events are deleted."
 msgstr ""
+"Sentry conserva datos de eventos en producción durante 90 días. Los "
+"acontecimientos individuales se agregan en cuestiones más amplias y se "
+"eliminan después del período de retención mencionado. Los problemas se "
+"eliminan cuando se eliminan todos los eventos asociados."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h3:257-1
 msgid "3.5 Cookies"
-msgstr ""
+msgstr "3.5 Cookies"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:259-1
 msgid "The Ceno Browser app does not use cookies."
-msgstr ""
+msgstr "La aplicación Ceno Browser no utiliza cookies."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h3:261-1
 msgid "3.6 Links to Other Sites"
-msgstr ""
+msgstr "3.6 Enlaces a otros sitios"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:263-1
 msgid ""
@@ -506,53 +522,71 @@ msgid ""
 "and we do not make any representations or warranties regarding their "
 "content, security, or privacy practices."
 msgstr ""
+"Este Servicio puede contener enlaces a sitios web o servicios operados por "
+"terceros. Estos sitios externos no son controlados o supervisados por "
+"eQualitie, y no hacemos ninguna representación o garantía respecto a su "
+"contenido, seguridad o prácticas de privacidad."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:265-1
 msgid "By clicking on a third-party link, you acknowledge and agree that:"
-msgstr ""
+msgstr "Al hacer clic en un enlace de terceros, usted reconoce y acepta que:"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:267-1
 msgid ""
 "Your interactions with third-party sites are governed solely by their "
 "respective terms of use and privacy policies."
 msgstr ""
+"Sus interacciones con sitios de terceros se rigen únicamente por sus "
+"respectivos términos de uso y políticas de privacidad."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:268-1
 msgid ""
 "eQualitie is not responsible for any content, data collection, or practices "
 "of third-party websites or services."
 msgstr ""
+"eQualitie no es responsable de ningún contenido, recopilación de datos o "
+"prácticas de sitios web o servicios de terceros."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:269-1
 msgid "Visiting external sites linked from Ceno is entirely at your own risk."
 msgstr ""
+"Visitar sitios externos vinculados a Ceno está completamente en su propio "
+"riesgo."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:271-1
 msgid "We strongly recommend that you:"
-msgstr ""
+msgstr "Le recomendamos encarecidamente:"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:273-1
 msgid ""
 "Exercise caution when clicking on links to unfamiliar or untrusted sites."
 msgstr ""
+"Ejercicio de precaución al hacer clic en enlaces a sitios desconocidos o no "
+"confiados."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:274-1
 msgid ""
 "Review the privacy policies and terms of use of any third-party website you "
 "visit."
 msgstr ""
+"Revise las políticas de privacidad y términos de uso de cualquier sitio web "
+"de terceros que visite."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:275-1
 msgid ""
 "Refrain from providing personal or sensitive information to external sites "
 "unless you are confident in their security and intent."
 msgstr ""
+"Rehusar proporcionar información personal o sensible a sitios externos a "
+"menos que tenga confianza en su seguridad e intención."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:277-1
 msgid ""
 "eQualitie disclaims all liability for any harm, loss, or damage arising from "
 "your use of third-party links or services."
 msgstr ""
+"eQualitie reclama toda responsabilidad por cualquier daño, pérdida o daño "
+"causado por su uso de enlaces o servicios de terceros."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h3:279-1
 msgid "3.7 Children’s Privacy"
