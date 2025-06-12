@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: support@censorship.no\n"
 "POT-Creation-Date: 2025-05-08 15:37-0400\n"
-"PO-Revision-Date: 2025-05-16 10:01+0000\n"
-"Last-Translator: Mehdi Oloomi <mehdi@equalitie.org>\n"
+"PO-Revision-Date: 2025-06-13 07:01+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/censorship-no/"
 "website/websiteindex/fa/>\n"
 "Language: fa\n"
@@ -161,11 +161,11 @@ msgstr ""
 
 #: index.html%2Bhtml.body.main.section.div.div.div.div.p.a.img[alt]:193-15
 msgid "Get it on Google Play"
-msgstr "از گوگل پلی دریافت کنید"
+msgstr "دریافت از گوگل پلی"
 
 #: index.html%2Bhtml.body.main.section.div.div.div.div.p.a.img[alt]:196-17
 msgid "Get it on Paskoocheh"
-msgstr "از پسکوچه دریافت کنید"
+msgstr "دریافت از پسکوچه"
 
 #: index.html%2Bhtml.body.main.section.div.div.div.div.p.a.img[alt]:199-15
 msgid "Get it from Microsoft Store"
