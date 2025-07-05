@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: support@censorship.no\n"
 "POT-Creation-Date: 2025-05-08 15:37-0400\n"
-"PO-Revision-Date: 2025-06-05 09:02+0000\n"
+"PO-Revision-Date: 2025-07-06 03:46+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/censorship-no/"
 "website/websitedownload/fa/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: download.html%2Bhtml[lang]:4-1
 msgid "en"
@@ -170,7 +170,7 @@ msgstr ""
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:193-17
 msgid "Get it on Google Play"
-msgstr "از گوگل پلی دریافت کنید"
+msgstr "دریافت از گوگل پلی"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:196-17
 msgid "Get it from Microsoft Store"
@@ -186,7 +186,7 @@ msgstr ""
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:203-17
 msgid "Get it on Paskoocheh"
-msgstr "از پسکوچه دریافت کنید"
+msgstr "دریافت از پسکوچه"
 
 #: download.html%2Bhtml.body.main.section.div.div.div.div.div.p.a.img[alt]:206-17
 msgid "Get it on GitLab"
