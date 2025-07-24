@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-05 21:32-0700\n"
-"PO-Revision-Date: 2025-04-22 05:33+0000\n"
+"PO-Revision-Date: 2025-06-21 09:01+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/censorship-no/"
 "website/website-donate/fr/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.1-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: donate.html%2Bhtml[lang]:4-1
 msgid "en"
@@ -189,7 +189,7 @@ msgstr "Faites un don en bitcoins"
 
 #: donate.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.p:217-3
 msgid "Our wallet address is:"
-msgstr "L’adresse de notre porte-monnaie est :"
+msgstr "L’adresse de notre portemonnaie est :"
 
 #: donate.html%2Bhtml.body.main.div.section.div.div.div.div.div.div.p:218-4
 msgid "bc1q2r70hf0jks43jyykpua6uqv907zegplgfacauc"

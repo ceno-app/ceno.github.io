@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-02 10:10-0700\n"
-"PO-Revision-Date: 2025-04-22 05:32+0000\n"
+"PO-Revision-Date: 2025-06-11 09:03+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/censorship-no/"
 "website-privacy/fr/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.1-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: privacy_policy.html%2Bhtml[lang]:4-1
 msgid "en"
@@ -502,18 +502,22 @@ msgid ""
 "aggregated into broader issues, and are deleted after the above retention "
 "period. Issues are deleted when all associated events are deleted."
 msgstr ""
+"Sentry conserve les données d'événements en production pendant 90 jours. Les "
+"événements individuels sont regroupés en questions plus larges et sont "
+"supprimés après la période de conservation ci-dessus. Les questions sont "
+"supprimées lorsque tous les événements associés sont supprimés."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h3:257-1
 msgid "3.5 Cookies"
-msgstr ""
+msgstr "3.5 Cookies"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:259-1
 msgid "The Ceno Browser app does not use cookies."
-msgstr ""
+msgstr "L'application Ceno Browser n'utilise pas de cookies."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h3:261-1
 msgid "3.6 Links to Other Sites"
-msgstr ""
+msgstr "3.6 Liens vers d'autres sites"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:263-1
 msgid ""
@@ -522,53 +526,70 @@ msgid ""
 "and we do not make any representations or warranties regarding their "
 "content, security, or privacy practices."
 msgstr ""
+"Ce service peut contenir des liens vers des sites Web ou des services "
+"exploités par des tiers. Ces sites externes ne sont pas contrôlés ou "
+"surveillés par eQualitie, et nous ne faisons aucune représentation ou "
+"garantie concernant leur contenu, leur sécurité ou leurs pratiques de "
+"confidentialité."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:265-1
 msgid "By clicking on a third-party link, you acknowledge and agree that:"
-msgstr ""
+msgstr "En cliquant sur un lien tiers, vous reconnaissez et acceptez que :"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:267-1
 msgid ""
 "Your interactions with third-party sites are governed solely by their "
 "respective terms of use and privacy policies."
 msgstr ""
+"Vos interactions avec des sites tiers sont régies uniquement par leurs "
+"conditions d'utilisation respectives et leurs politiques de confidentialité."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:268-1
 msgid ""
 "eQualitie is not responsible for any content, data collection, or practices "
 "of third-party websites or services."
 msgstr ""
+"eQualitie n'est pas responsable de tout contenu, collecte de données ou "
+"pratique de sites Web ou de services tiers."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:269-1
 msgid "Visiting external sites linked from Ceno is entirely at your own risk."
-msgstr ""
+msgstr "Visiter des sites externes liés à Ceno est entièrement à vos risques."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:271-1
 msgid "We strongly recommend that you:"
-msgstr ""
+msgstr "Nous vous recommandons fortement:"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:273-1
 msgid ""
 "Exercise caution when clicking on links to unfamiliar or untrusted sites."
 msgstr ""
+"Exercer la prudence en cliquant sur les liens vers des sites non familiers "
+"ou non confinés."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:274-1
 msgid ""
 "Review the privacy policies and terms of use of any third-party website you "
 "visit."
 msgstr ""
+"Consultez les politiques de confidentialité et les conditions d'utilisation "
+"de tout site Web tiers que vous visitez."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p.ul.li:275-1
 msgid ""
 "Refrain from providing personal or sensitive information to external sites "
 "unless you are confident in their security and intent."
 msgstr ""
+"Ne pas fournir de renseignements personnels ou sensibles à des sites "
+"externes, sauf si vous êtes confiant dans leur sécurité et leur intention."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:277-1
 msgid ""
 "eQualitie disclaims all liability for any harm, loss, or damage arising from "
 "your use of third-party links or services."
 msgstr ""
+"eQualitie décline toute responsabilité pour tout dommage, perte ou dommage "
+"découlant de votre utilisation de liens ou de services tiers."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h3:279-1
 msgid "3.7 Children’s Privacy"
@@ -592,27 +613,31 @@ msgstr ""
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h3:283-1
 msgid "3.8 Changes to these Terms"
-msgstr ""
+msgstr "3.8 Modifications aux présentes conditions"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:285-1
 msgid ""
 "We may update these Terms from time to time. Thus, you are advised to review "
 "this page periodically for any changes."
 msgstr ""
+"Nous pouvons mettre à jour ces Conditions de temps à autre. Ainsi, il vous "
+"est conseillé de revoir cette page périodiquement pour tout changement."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:287-1
 msgid "This policy is effective as of 2024-12-18."
-msgstr ""
+msgstr "Cette politique est en vigueur à compter de 2024-12-18."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h2:289-1
 msgid "4. Glossary"
-msgstr ""
+msgstr "4. Glossaire"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:291-1
 msgid ""
 "<b>Bootstrap Servers:</b> Servers used to help your device get into the "
 "BitTorrent network."
 msgstr ""
+"<b>Bootstrap Servers:</b> Les serveurs utilisés pour aider votre appareil à "
+"accéder au réseau BitTorrent."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:293-1
 msgid ""
@@ -632,6 +657,9 @@ msgid ""
 "<b>Personal Mode:</b> Browsing activity in Personal Mode is not shared with "
 "anyone else. Web content is securely retrieved from origin or via Injectors."
 msgstr ""
+"<b> Mode personnel:</b> L'activité de croissance en mode personnel n'est "
+"partagée avec personne d'autre. Le contenu Web est récupéré en toute "
+"sécurité depuis l'origine ou via Injectors."
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:299-1
 msgid ""
@@ -643,7 +671,7 @@ msgstr ""
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.h2:301-1
 msgid "Contact Us"
-msgstr ""
+msgstr "Nous contacter"
 
 #: privacy_policy.html%2Bhtml.body.main.section.div.p:302-1
 msgid ""
